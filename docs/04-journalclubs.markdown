@@ -6,10 +6,15 @@ order: 2
 ---
 
 * **Summer 2025**
-  - **June 30:** 3-4 pm Beijing time
+  - **July 14:** 3-4 pm Beijing time
     - Topic: 
-    - Focused Paper: 
-    - Other Discussed Papers:
+    - Focused Paper:   
+    - Other Discussed Papers: 
+      
+  - **June 30:** 3-4 pm Beijing time
+    - Topic: New Architecture Design for More Human-like NN & Dynamic Sparsity.
+    - Focused Paper: [2505.05522](https://arxiv.org/abs/2505.05522).  
+    - Other Discussed Papers: [2505.03258](https://arxiv.org/abs/2505.03258).
 
   - **June 16:** 3-4 pm Beijing time
     - Topic: Neural Network Compositionality & Mechanistic Interpretability.
