@@ -10,13 +10,14 @@ This page gathers learning materials for AI+HEP, both from the HEP side and the 
 **To Mentors:** Thanks everyone for uploading your own teaching materials! It really helps the community to share educational resources and together we become far more efficient. In the future once we have enough materials, we will try to organize them into a coherent curriculum. Right now, don't worry about organizing, formatting, etc. Just upload the materials you find useful under the respective topic tab (and they don't need to match perfectly). In most cases, a link to another website, a Github repo, or an arXiv paper would be enough. But note that this is not a place for posting current literature. So please don't post new papers, review articles, white papers, unless they have a strong educational value. Tutorials for summer/winter schools and short topical books fit perfectly here, as well as coursera courses on CS/AI/HEP that you find helpful. Thanks again!
 
 * **Collider Physics Basics**
-  - **TASI Lectures on Collider Physics** by Matthew D. Schwartz: [1709.04533](https://arxiv.org/abs/1709.04533)
+  - **TASI Lectures on Collider Physics** by Matthew D. Schwartz: [1709.04533](https://arxiv.org/abs/1709.04533).
 
 
 * **AI Basics**
 
 * **AI for HEP & HEP for AI**
-  - **QCD Masterclass Lectures on Jet Physics and Machine Learning** by Andrew J. Larkoski: [2407.04897](https://arxiv.org/abs/2407.04897)
-  - **TASI Lectures on Physics for Machine Learning** by Jim Halverson: [2408.00082](https://arxiv.org/abs/2408.00082)
+  - **QCD Masterclass Lectures on Jet Physics and Machine Learning** by Andrew J. Larkoski: [2407.04897](https://arxiv.org/abs/2407.04897).
+  - **TASI Lectures on Physics for Machine Learning** by Jim Halverson: [2408.00082](https://arxiv.org/abs/2408.00082).
+  - **Physics and Machine Learning Course** by Jim Halverson: [Github repo](https://github.com/jimhalverson/COMP2023/tree/main/notebooks/Physics%20and%20Machine%20Learning).
  
     
