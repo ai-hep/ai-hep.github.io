@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Organizers
-permalink: /organizers/
+title: Members
+permalink: /members/
 order: 2
 ---
 
