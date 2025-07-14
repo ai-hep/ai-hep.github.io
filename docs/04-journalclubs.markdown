@@ -6,10 +6,15 @@ order: 2
 ---
 
 * **Summer 2025**
-  - **July 14:** 3-4 pm Beijing time
+  - **July 28:** 3-4 pm Beijing time
     - Topic: 
-    - Focused Paper:   
+    - Focused Paper:  
     - Other Discussed Papers: 
+
+  - **July 14:** 3-4 pm Beijing time
+    - Topic: Learning at Criticality.
+    - Focused Paper: [2506.03703](https://arxiv.org/abs/2506.03703).  
+    - Other Discussed Papers: Admin stuff.
       
   - **June 30:** 3-4 pm Beijing time
     - Topic: New Architecture Design for More Human-like NN & Dynamic Sparsity.
