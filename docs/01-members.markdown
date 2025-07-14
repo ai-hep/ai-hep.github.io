@@ -5,7 +5,15 @@ permalink: /members/
 order: 2
 ---
 
-* Tianji Cai
-* Sung Hak Lim
-* Vinicius Mikuni
-* Huilin Qu
+**Organizing Committee:**
+- Tianji Cai
+- Ahmed Hammad
+- Sung Hak Lim
+- Vinicius Mikuni
+- Huilin Qu
+
+**Advisory Committee:**
+- Mihoko Nojiri
+
+**Volunteers:**
+- Shiva Sankar: Website Design.
