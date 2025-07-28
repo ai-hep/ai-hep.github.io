@@ -5,9 +5,16 @@ permalink: /journalclubs/
 order: 2
 ---
 
+Meeting time: every Monday biweekly 3-4 pm Beijing Time, 4-5 pm JST/KST
+
 * **Summer 2025**
-  - **July 28:** 3-4 pm Beijing time
+  - **Aug. 11:** 3-4 pm Beijing time
     - Topic: 
+    - Focused Paper:  
+    - Other Discussed Papers: 
+    
+  - **July 28:** 3-4 pm Beijing time
+    - Topic: Skipped due to low participants
     - Focused Paper:  
     - Other Discussed Papers: 
 
