@@ -14,9 +14,7 @@ Meeting time: every Monday biweekly 3-4 pm Beijing Time, 4-5 pm JST/KST
     - Other Discussed Papers: 
     
   - **July 28:** 3-4 pm Beijing time
-    - Topic: Skipped due to low participants
-    - Focused Paper:  
-    - Other Discussed Papers: 
+    - Skipped due to low number of participants
 
   - **July 14:** 3-4 pm Beijing time
     - Topic: Learning at Criticality.
