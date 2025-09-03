@@ -20,7 +20,6 @@ Meeting time: every Monday biweekly 3-4 pm Beijing Time, 4-5 pm JST/KST
   - **Aug. 27 (Wed):**
     - Topic: Inductive Bias in Foundation Models and World Models
     - Focused Paper: [2507.06952](https://arxiv.org/abs/2507.06952)
-    - Other Discussed Papers: [2303.03192](https://arxiv.org/abs/2303.03192), [2312.01816](https://arxiv.org/abs/2312.01816)
     
   - **Aug. 11:** 
     - Topic: Symbolic regressions
