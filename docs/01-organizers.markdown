@@ -13,26 +13,31 @@ order: 2
 </div>
 
 <script>
-(function(){
+document.addEventListener('DOMContentLoaded', function() {
   const wrappers = document.querySelectorAll('.person-bio-wrapper');
   wrappers.forEach(w => {
     const p = w.querySelector('.person-bio');
     const btn = w.querySelector('[data-toggle]');
     if(!p || !btn) return;
-    const lineClamp = 6; 
+    
+    // Initialize as clamped
     w.classList.add('is-clamped');
+    btn.textContent = 'Read more';
+    
     btn.addEventListener('click', () => {
-      const expanded = w.classList.toggle('is-expanded');
-      if(expanded){
+      const isClamped = w.classList.contains('is-clamped');
+      if(isClamped){
         w.classList.remove('is-clamped');
+        w.classList.add('is-expanded');
         btn.textContent = 'Show less';
       } else {
         w.classList.add('is-clamped');
-        btn.textContent = 'Show more';
+        w.classList.remove('is-expanded');
+        btn.textContent = 'Read more';
       }
     });
   });
-})();
+});
 </script>
 
 <style>
@@ -68,6 +73,7 @@ order: 2
           </ul>
           <div class="person-bio-wrapper" data-bio>
             <p class="person-bio">Tianji Cai (蔡恬吉) is a Distinguished Researcher (junior faculty) at Tongji University (Shanghai, CN). Before, she worked as a postdoctoral research associate in the Fundamental Physics Directorate at the SLAC National Accelerator Laboratory, and as a research affiliate at the Lawrence Berkeley National Laboratory. She obtained her Ph.D. degree in 2023 at University of California, Santa Barbara, and holds two bachelor's degrees from Duke University and Shanghai Jiao Tong University. Her research interest lies at the intersection of High Energy Theory (HEP) and Artificial Intelligence (AI), with the goal towards developing scientific AI. She is actively looking for interested students (undergrads & grads) to join her group, the Ψai Lab.</p>
+            <button class="bio-toggle" data-toggle>Read more</button>
           </div>
           <p class="person-contact"><strong>Email:</strong> <a href="mailto:tianjiresearch@gmail.com">tianjiresearch@gmail.com</a></p>
         </div>
@@ -93,6 +99,7 @@ order: 2
           </ul>
           <div class="person-bio-wrapper" data-bio>
             <p class="person-bio">Sung Hak Lim is a Senior Researcher at the Center for Theoretical Physics of the Universe (CTPU-PTC), Institute for Basic Science in South Korea. He earned his Ph.D. from KAIST in 2017, and worked in postdoctoral positions at KEK in Japan (2017-2020) and Rutgers University (2020-2024). His research focuses on combining physics principles with machine learning techniques to advance fundamental physics problems. His current primary work uses advanced neural network methods to map dark matter in the Milky Way and nearby dwarf galaxies. He also develops physics-inspired machine learning methods for identifying particle signals at large hadron colliders and studying dark matter halos of galaxies, with the ultimate goal of revealing the true nature of dark matter.</p>
+            <button class="bio-toggle" data-toggle>Read more</button>
           </div>
           <p class="person-contact"><strong>Email:</strong> <a href="mailto:sunghak.lim@ibs.re.kr">sunghak.lim@ibs.re.kr</a></p>
         </div>
@@ -113,6 +120,7 @@ order: 2
           </ul>
           <div class="person-bio-wrapper" data-bio>
             <p class="person-bio">Vinicius Mikuni is an Associate Professor using AI for scientific discovery at the KMI Institute. He earned his PhD in 2021 from the University of Zurich, and worked as a Postdoctoral Fellow at Berkeley Lab, California. His research lies at the intersection of machine learning and fundamental science, where he develops algorithms to tackle core challenges in scientific research. His recent work includes fast simulation frameworks for fluid flows, collider physics, nuclear physics, and astrophysics using diffusion-based generative models; innovative methods for solving inverse problems in collider and neutrino physics; and leveraging pre-trained models to accelerate discoveries in particle physics.</p>
+            <button class="bio-toggle" data-toggle>Read more</button>
           </div>
           <p class="person-contact"><strong>Email:</strong> <a href="mailto:vmikuni@cern.ch">vmikuni@cern.ch</a></p>
         </div>
@@ -137,6 +145,7 @@ order: 2
           </ul>
           <div class="person-bio-wrapper" data-bio>
             <p class="person-bio">Dr. Huilin Qu (曲慧麟) is a staff research physicist at CERN. He received his B.S. degree from Peking University in 2014 and his Ph.D. from the University of California, Santa Barbara in 2019. His research is at the forefront of artificial intelligence and particle physics, where he has pioneered several innovative deep learning techniques for jet tagging—most notably ParticleNet—which has significantly improved performance and is now widely adopted at the LHC and beyond. As a member of the CMS experiment, Dr. Qu has contributed to searches for Higgs decays to charm quarks and Higgs boson pair production, earning the 2023 CMS Young Researcher Prize for advances in AI-based jet tagging and measurements.</p>
+            <button class="bio-toggle" data-toggle>Read more</button>
           </div>
           <p class="person-contact"><strong>Email:</strong> <a href="mailto:huilin.qu@cern.ch">huilin.qu@cern.ch</a></p>
         </div>
@@ -163,6 +172,7 @@ order: 2
           </ul>
           <div class="person-bio-wrapper" data-bio>
             <p class="person-bio">Ahmed Hammad is a Postdoctoral Researcher in the Theory Division at the High Energy Accelerator Research Organization (KEK, Tsukuba, Japan). He received his Ph.D. in Theoretical Physics in 2021 from the University of Basel (Switzerland). His research focuses on collider phenomenology and physics beyond the Standard Model, with a particular emphasis on applying advanced machine learning methods, both classical and quantum, to high energy physics. He has contributed to searches for new physics at the LHC and HL-LHC, with work spanning Higgs boson phenomenology, top quark flavor-changing neutral currents and anomaly detection techniques.</p>
+            <button class="bio-toggle" data-toggle>Read more</button>
           </div>
           <p class="person-contact"><strong>Email:</strong> <a href="mailto:hamed@post.kek.jp">hamed@post.kek.jp</a></p>
         </div>
@@ -273,7 +283,8 @@ order: 2
             <li class="person-tag">Deep Learning</li>
           </ul>
           <div class="person-bio-wrapper" data-bio>
-            <p class="person-bio"> Shivasankar is a second-year Ph.D. student at Hokkaido University, Japan. His primary interests lie in theoretical astroparticle physics, where he studies Beyond Standard Model phenomena in astrophysical objects such as black holes, supernovae, and neutron stars, using theory and computation to explore how new physics could manifest. In parallel, he investigates AI-driven approaches in collider physics, specifically studying the physics learned by the models, and explores how concepts from fundamental physics might inspire new developments in AI. When he’s not pondering black holes or neural networks, he enjoys learning new skills and exploring the endless possibilities simulated by the Cosmic++ code of the multiverse.</p>
+            <p class="person-bio"> Shivasankar is a second-year Ph.D. student at Hokkaido University, Japan. His primary interests lie in theoretical astroparticle physics, where he studies Beyond Standard Model phenomena in astrophysical objects such as black holes, supernovae, and neutron stars, using theory and computation to explore how new physics could manifest. In parallel, he investigates AI-driven approaches in collider physics, specifically studying the physics learned by the models, and explores how concepts from fundamental physics might inspire new developments in AI. When he's not pondering black holes or neural networks, he enjoys learning new skills and exploring the endless possibilities simulated by the Cosmic++ code of the multiverse.</p>
+            <button class="bio-toggle" data-toggle>Read more</button>
           </div>
           <p class="person-contact"><strong>Email:</strong> <a href="mailto:a-shiva@particle.sci.hokudai.ac.jp">a-shiva@particle.sci.hokudai.ac.jp</a></p>
         </div>
@@ -284,10 +295,10 @@ order: 2
   <div class="content-section">
     <h2 class="section-title">Get Involved</h2>
     <div class="highlight-box">
-      <h3>🤝 Join Our Community</h3>
+      <h3> Join Our Community</h3>
       <p>Interested in contributing to our organizing efforts or participating in our activities? We welcome new members and collaborators who want to advance AI+HEP research and education in East Asia.</p>
       <div style="text-align: center; margin-top: 2rem;">
-        <a href="mailto:contact@ai-hep.org" class="btn">Contact Us</a>
+        <a href="https://groups.google.com/g/hep-aie" class="btn">Contact Us</a>
         <a href="/workshops/" class="btn btn-outline">View events</a>
       </div>
     </div>
