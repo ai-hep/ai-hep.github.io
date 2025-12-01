@@ -70,13 +70,13 @@ order: 6
 
   <div class="content-section" style="margin-top: 4rem;">
     <div class="highlight-box" style="text-align: center; padding: 2.5rem;">
-      <h3 style="color: var(--accent-color); font-size: 1.8rem; margin-bottom: 1rem;">💡 Contribute Resources</h3>
+      <h3 style="color: var(--accent-color); font-size: 1.8rem; margin-bottom: 1rem;">Contribute Resources</h3>
       <p style="font-size: 1.1rem; max-width: 600px; margin: 0 auto 2rem;">
         Help expand our educational library! Share tutorials, course materials, Jupyter notebooks, or learning guides to make AI+HEP more accessible to newcomers.
       </p>
       <div class="btn-row center">
         <a href="https://groups.google.com/g/hep-aiea" class="btn">Submit a Resource</a>
-        <a href="/workshops/" class="btn btn-outline">View events</a>
+        <!-- <a href="/workshops/" class="btn btn-outline">View events</a> -->
       </div>
     </div>
   </div>
