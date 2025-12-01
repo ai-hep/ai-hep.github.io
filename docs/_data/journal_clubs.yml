@@ -17,12 +17,28 @@ upcoming:
 
 past:
   - date: "2025-11-10"
+    topic: 
+    status: "past"
   
   - date: "2025-11-03"
+    topic: 
+    status: "past"
   
   - date: "2025-10-27"
+    topic: 
+    status: "past"
   
   - date: "2025-09-29"
+    topic: 
+    status: "past"
+    focused_paper:
+      title: "Double Descent and Overparameterization in Particle Physics Data"
+      arxiv: "2509.01397"
+      url: "https://arxiv.org/abs/2509.01397"
+    focused_paper:
+      title: "Double Descent and Overparameterization in Particle Physics Data"
+      arxiv: "2509.01397"
+      url: "https://arxiv.org/abs/2509.01397"
 
   - date: "2025-09-15"
     time: "3-4 PM Beijing Time"
