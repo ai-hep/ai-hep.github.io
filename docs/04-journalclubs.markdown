@@ -139,7 +139,7 @@ Past Sessions - 2025 {#section-title}
 <!-- -------------------------------------------- -->
 
 2025-11-24
-: ### Lorentz-equvariant Neural Networks
+: ### Lorentz-equivariant Neural Networks
   * **focused**{:.focus-label} [Lorentz Local Canonicalization: How to Make Any Network Lorentz-Equivariant](https://arxiv.org/abs/2505.20280) (arXiv:2505.20280)
 : ### Fundamental Limit of Jet Tagging Performance
   * [SURFing to the Fundamental Limit of Jet Tagging](https://arxiv.org/abs/2511.15779) (arXiv:2511.15779)
