@@ -134,7 +134,9 @@ Past Sessions - 2025 {#section-title}
 <!-- -------------------------------------------- -->
 
 2025-12-08
-: ### TBA
+: ### Physics, Language Models, and Data
+  * [QCD in Language Models: What do they really know about QCD?](https://arxiv.org/abs/2512.02072) (arXiv:2512.02072)
+  * [Large Physics Models: Towards a collaborative approach with Large Language Models and Foundation Models](https://arxiv.org/abs/2501.05382) (arXiv:2501.05382)
 
 <!-- -------------------------------------------- -->
 
