@@ -123,15 +123,21 @@ order: 5
     </div>
 </div>
 
-Past Sessions - 2025 {#section-title}
+Past Sessions - 2026 {#section-title}
 --------------------
 
 <div id="past-sessionss" markdown=1>
 
-2025-01-05
+2026-01-05
 : ### QnA on AI for Physics and Physics for AI
 
 <!-- -------------------------------------------- -->
+
+</div>
+
+Past Sessions - 2025 {#section-title}
+--------------------
+<div id="past-sessionss" markdown=1>
 
 2025-12-08
 : ### Physics, Language Models, and Data
