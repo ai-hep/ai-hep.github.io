@@ -128,8 +128,8 @@ Past Sessions - 2025 {#section-title}
 
 <div id="past-sessionss" markdown=1>
 
-2025-12-22
-: ### TBA
+2025-01-05
+: ### QnA on AI for Physics and Physics for AI
 
 <!-- -------------------------------------------- -->
 
