@@ -152,10 +152,10 @@ document.addEventListener('DOMContentLoaded', function() {
       </div>
 
 
-      <!-- Organizer: Ahmad -->
+      <!-- Organizer: Marco -->
       <div class="person-card">
         <div class="person-media">
-          <img src="{{ '/images/hammad.jpg' | relative_url }}" alt="Photo of Vinicius Mikuni" loading="lazy" style="width:100%; height:100%; object-fit:contain; object-position:center; background:#f5f5f5;" />
+          <img src="{{ '/images/marco.jpg' | relative_url }}" alt="Photo of Marco Meyer-Conde" loading="lazy" style="width:100%; height:100%; object-fit:contain; object-position:center; background:#f5f5f5;" />
         </div>
         <div class="person-body">
           <h3 class="person-name">Ahmed Hammad</h3>
@@ -164,17 +164,12 @@ document.addEventListener('DOMContentLoaded', function() {
             <span class="person-affiliation"> Theory center, High energy accelerator research organization -KEK, Japan</span>
           </div>
           <ul class="person-tags">
-            <li class="person-tag">Beyond SM</li>
-            <li class="person-tag">Collider phenomenology</li>
-            <li class="person-tag">Future colliders</li>
-            <li class="person-tag">Jet physics</li>
-            <li class="person-tag">AI for science</li>
+            <li class="person-tag">Gravitational Wave</li>
           </ul>
           <div class="person-bio-wrapper" data-bio>
-            <p class="person-bio">Ahmed Hammad is a Postdoctoral Researcher in the Theory Division at the High Energy Accelerator Research Organization (KEK, Tsukuba, Japan). He received his Ph.D. in Theoretical Physics in 2021 from the University of Basel (Switzerland). His research focuses on collider phenomenology and physics beyond the Standard Model, with a particular emphasis on applying advanced machine learning methods, both classical and quantum, to high energy physics. He has contributed to searches for new physics at the LHC and HL-LHC, with work spanning Higgs boson phenomenology, top quark flavor-changing neutral currents and anomaly detection techniques.</p>
-            <button class="bio-toggle" data-toggle>Read more</button>
+            <p class="person-bio">To be filled/button>
           </div>
-          <p class="person-contact"><strong>Email:</strong> <a href="mailto:hamed@post.kek.jp">hamed@post.kek.jp</a></p>
+          <p class="person-contact"><strong>Email:</strong> <a href="mailto:marco@tcu.ac.jp">marco@tcu.ac.jp</a></p>
         </div>
       </div>
 
@@ -203,8 +198,40 @@ document.addEventListener('DOMContentLoaded', function() {
         </div>
       </div>
 
+
+
+      <!-- Organizer: Ahmad -->
+      <div class="person-card">
+        <div class="person-media">
+          <img src="{{ '/images/hammad.jpg' | relative_url }}" alt="Photo of Vinicius Mikuni" loading="lazy" style="width:100%; height:100%; object-fit:contain; object-position:center; background:#f5f5f5;" />
+        </div>
+        <div class="person-body">
+          <h3 class="person-name">Ahmed Hammad</h3>
+          <div class="person-role-block">
+            <span class="person-role">Postdoctoral researcher</span>
+            <span class="person-affiliation"> Theory center, High energy accelerator research organization -KEK, Japan</span>
+          </div>
+          <ul class="person-tags">
+            <li class="person-tag">Beyond SM</li>
+            <li class="person-tag">Collider phenomenology</li>
+            <li class="person-tag">Future colliders</li>
+            <li class="person-tag">Jet physics</li>
+            <li class="person-tag">AI for science</li>
+          </ul>
+          <div class="person-bio-wrapper" data-bio>
+            <p class="person-bio">Ahmed Hammad is a Postdoctoral Researcher in the Theory Division at the High Energy Accelerator Research Organization (KEK, Tsukuba, Japan). He received his Ph.D. in Theoretical Physics in 2021 from the University of Basel (Switzerland). His research focuses on collider phenomenology and physics beyond the Standard Model, with a particular emphasis on applying advanced machine learning methods, both classical and quantum, to high energy physics. He has contributed to searches for new physics at the LHC and HL-LHC, with work spanning Higgs boson phenomenology, top quark flavor-changing neutral currents and anomaly detection techniques.</p>
+            <button class="bio-toggle" data-toggle>Read more</button>
+          </div>
+          <p class="person-contact"><strong>Email:</strong> <a href="mailto:hamed@post.kek.jp">hamed@post.kek.jp</a></p>
+        </div>
+      </div>
+
     </div>
+
   </div>
+
+
+
 
   <div class="content-section">
     <h2 class="section-title">International Advisory Committee</h2>
