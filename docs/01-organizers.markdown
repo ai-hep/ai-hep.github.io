@@ -167,7 +167,8 @@ document.addEventListener('DOMContentLoaded', function() {
             <li class="person-tag">Gravitational Wave</li>
           </ul>
           <div class="person-bio-wrapper" data-bio>
-            <p class="person-bio">To be filled</button>
+            <p class="person-bio">To be filled</p>
+            <button class="bio-toggle" data-toggle>Read more</button>
           </div>
           <p class="person-contact"><strong>Email:</strong> <a href="mailto:marco@tcu.ac.jp">marco@tcu.ac.jp</a></p>
         </div>
