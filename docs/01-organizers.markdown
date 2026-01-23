@@ -158,10 +158,10 @@ document.addEventListener('DOMContentLoaded', function() {
           <img src="{{ '/images/marco.jpg' | relative_url }}" alt="Photo of Marco Meyer-Conde" loading="lazy" style="width:100%; height:100%; object-fit:contain; object-position:center; background:#f5f5f5;" />
         </div>
         <div class="person-body">
-          <h3 class="person-name">Ahmed Hammad</h3>
+          <h3 class="person-name">Marco Meyer-Conde</h3>
           <div class="person-role-block">
-            <span class="person-role">Postdoctoral researcher</span>
-            <span class="person-affiliation"> Theory center, High energy accelerator research organization -KEK, Japan</span>
+            <span class="person-role">Assistant Professor</span>
+            <span class="person-affiliation">Tokyo City University, Japan</span>
           </div>
           <ul class="person-tags">
             <li class="person-tag">Gravitational Wave</li>
