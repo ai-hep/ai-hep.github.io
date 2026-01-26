@@ -164,7 +164,11 @@ document.addEventListener('DOMContentLoaded', function() {
             <span class="person-affiliation">Tokyo City University, Japan</span>
           </div>
           <ul class="person-tags">
-            <li class="person-tag">Gravitational Wave</li>
+            <li class="person-tag">AI for Science</li>
+            <li class="person-tag">Gravitational Waves</li>
+            <li class="person-tag">Future Colliders</li>
+            <li class="person-tag">Quantum Chromodynamics</li>
+            <li class="person-tag">Pion Phenomenology</li>
           </ul>
           <div class="person-bio-wrapper" data-bio>
             <p class="person-bio">Marco Meyer is an Assistant Research Professor at Tokyo City University since 2024, specializing in machine learning for scientific applications and advanced signal processing techniques. He is a high-energy physics researcher by education with a focus on hadronic physics. He completed his Ph.D. at Université Paris-Saclay on the extraction of absolute Drell-Yan 2015 cross-sections using a 200 GeV negatively charged pion beam at COMPASS/AMBER (CERN), under a co-direction with CEA/Irfu/DPhN at Saclay and the University of Illinois Urbana-Champaign (USA), followed by a junior postdoctoral position at UIUC hosted at CERN. In 2021, he was awarded the JSPS-CNRS Overseas Fellowship, working as a senior postdoctoral fellow at Osaka Metropolitan University, where he worked on gravitational wave experiment physics, software & computing design, and machine learning applications for waveform forecasting. Marco is a member of the LIGO-VIRGO-KAGRA gravitational wave collaboration and the ePIC collaboration for Electron-Ion Collider physics. Outside of research, he enjoys blogging online, skiing, and bouldering.</p>
