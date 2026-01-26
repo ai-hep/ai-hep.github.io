@@ -161,7 +161,7 @@ document.addEventListener('DOMContentLoaded', function() {
           <h3 class="person-name">Marco Meyer-Conde</h3>
           <div class="person-role-block">
             <span class="person-role">Assistant Research Professor</span>
-            <span class="person-affiliation">Tokyo City University, Japan</span>
+            <span class="person-affiliation">Tokyo City University</span>
           </div>
           <ul class="person-tags">
             <li class="person-tag">AI for Science</li>
