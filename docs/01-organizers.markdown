@@ -160,7 +160,7 @@ document.addEventListener('DOMContentLoaded', function() {
         <div class="person-body">
           <h3 class="person-name">Marco Meyer-Conde</h3>
           <div class="person-role-block">
-            <span class="person-role">Assistant Professor</span>
+            <span class="person-role">Assistant Research Professor</span>
             <span class="person-affiliation">Tokyo City University, Japan</span>
           </div>
           <ul class="person-tags">
