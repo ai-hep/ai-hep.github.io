@@ -18,10 +18,10 @@ order: 5
 #section-title {
   font-size: 2rem !important;
   font-weight: 600 !important;
-  margin-bottom: var(--spacing-lg) !important;
+  /* margin-bottom: var(--spacing-lg) !important; */
   color: var(--yin-dark) !important;
   border-bottom: 3px solid var(--accent-color) !important;
-  padding-bottom: var(--spacing-sm) !important;
+  /* padding-bottom: var(--spacing-sm) !important; */
   display: inline-block;
 }
 
