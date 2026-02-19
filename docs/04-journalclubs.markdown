@@ -138,8 +138,6 @@ Past Sessions - 2026 {#section-title}
 
 Past Sessions - 2025 {#section-title}
 --------------------
-<!-- -------------------------------------------- -->
-
 
 2025-12-08
 : ### Physics, Language Models, and Data
