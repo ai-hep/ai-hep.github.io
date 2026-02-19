@@ -22,7 +22,7 @@ order: 5
   color: var(--yin-dark) !important;
   border-bottom: 3px solid var(--accent-color) !important;
   /* padding-bottom: var(--spacing-sm) !important; */
-  display: inline-block;
+  display: block;
 }
 
 #past-sessionss dl{
