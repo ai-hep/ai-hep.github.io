@@ -131,6 +131,8 @@ Past Sessions - 2026 {#section-title}
 2026-01-23
 : ### TBA
 
+<!-- -------------------------------------------- -->
+
 2026-01-05
 : ### QnA on AI for Physics and Physics for AI
 
