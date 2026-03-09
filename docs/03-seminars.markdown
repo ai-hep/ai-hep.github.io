@@ -35,10 +35,10 @@ order: 4
   <section class="content-section">
     <h2 class="section-title">Participate</h2>
     <div class="highlight-box compact">
-      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 2rem;">
+      <div class="participate-grid">
         <div>
           <h3 class="inline-heading"> Present Your Work</h3>
-          <p style="margin-bottom: 1rem;">We welcome proposals from researchers at all career stages. Send a short abstract or idea to the Organizers!</p>
+          <p>We welcome proposals from researchers at all career stages. Send a short abstract or idea to the Organizers!</p>
           <div class="btn-row">
             <a href="https://groups.google.com/g/hep-aiea" class="btn">Propose a Talk</a>
           </div>
@@ -46,7 +46,7 @@ order: 4
 
         <div>
           <h3 class="inline-heading"> Advertise Your Seminars</h3>
-          <p style="margin-bottom: 1rem;">Share your own seminars and events with the community via our Slack workspace.</p>
+          <p>Share your own seminars and events with the community via our Slack workspace.</p>
           <div class="btn-row">
             <a href="mailto:tianjiresearch@gmail.com,vmikuni@cern.ch,huilin.qu@cern.ch?subject=Request%20Slack%20invitation%20for%20AI%20%2B%20HEP&body=Hi%2C%0A%0AI%27d%20like%20to%20join%20the%20AI%2BHEP%20East%20Asia%20Slack%20workspace.%0A%0AName%3A%20%0AInstitution%3A%20%0AResearch%20interests%3A%20%0A%0AThank%20you%21" class="btn">Join Slack</a>
           </div>

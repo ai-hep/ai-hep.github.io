@@ -5,10 +5,10 @@ permalink: /organizers/
 order: 2
 ---
 
-<div class="hero-section" style="padding: 3rem 0; margin-bottom: 3rem;">
+<div class="hero-section">
   <div class="wrapper">
-    <h1 class="hero-title" style="font-size: 2.5rem;">Our Team</h1>
-    <p class="hero-subtitle" style="font-size: 1.2rem;">Researchers leading the AI+HEP East Asia community</p>
+    <h1 class="hero-title">Our Team</h1>
+    <p class="hero-subtitle">Researchers leading the AI+HEP East Asia community</p>
   </div>
 </div>
 
@@ -40,14 +40,7 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 </script>
 
-<style>
-    .person-bio {
-        border: none;
-        font-size: 0.85rem;
-    }    
-</style>
-
-<div class="wrapper">
+<div class="wrapper organizers-page">
   <div class="content-section">
     <h2 class="section-title">Organizers</h2>
     <p>Our community is guided by dedicated researchers across East Asia advancing AI and high energy physics.</p>
@@ -83,7 +76,7 @@ document.addEventListener('DOMContentLoaded', function() {
       <div class="person-card">
         <div class="person-media placeholder">
           <!-- <div class="placeholder-initials">SL</div> -->
-          <img src="{{ '/images/sunghak.png' | relative_url }}" alt="Photo of Sung Hak Lim" loading="lazy" style="width:100%; height:100%; object-fit:contain; object-position:center; background:#f5f5f5;" />
+          <img src="{{ '/images/sunghak.png' | relative_url }}" alt="Photo of Sung Hak Lim" loading="lazy" class="person-photo--contain" />
         </div>
         <div class="person-body">
           <h3 class="person-name">Sung Hak Lim</h3>
@@ -107,8 +100,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
       <!-- Organizer: Vinicius Mikuni -->
       <div class="person-card">
-        <div class="person-media" style="overflow:hidden;">
-          <img src="{{ '/images/mikuni.jpg' | relative_url }}" alt="Photo of Vinicius Mikuni" loading="lazy" style="width:100%; height:100%; object-fit:contain; object-position:center; background:#f5f5f5;" />
+        <div class="person-media">
+          <img src="{{ '/images/mikuni.jpg' | relative_url }}" alt="Photo of Vinicius Mikuni" loading="lazy" class="person-photo--contain" />
         </div>    <div class="person-body">
           <h3 class="person-name">Vinicius Mikuni</h3>
           <div class="person-role-block">
@@ -155,7 +148,7 @@ document.addEventListener('DOMContentLoaded', function() {
       <!-- Organizer: Marco -->
       <div class="person-card">
         <div class="person-media">
-          <img src="{{ '/images/marco.jpg' | relative_url }}" alt="Photo of Marco Meyer-Conde" loading="lazy" style="width:100%; height:100%; object-fit:contain; object-position:center; background:#f5f5f5;" />
+          <img src="{{ '/images/marco.jpg' | relative_url }}" alt="Photo of Marco Meyer-Conde" loading="lazy" class="person-photo--contain" />
         </div>
         <div class="person-body">
           <h3 class="person-name">Marco Meyer-Conde</h3>
@@ -181,7 +174,7 @@ document.addEventListener('DOMContentLoaded', function() {
       <!-- Organizer: Ling xiao -->
       <div class="person-card">
         <div class="person-media">
-          <img src="{{ '/images/lingxiao.jpg' | relative_url }}" alt="Photo of lingxiao" loading="lazy" style="width:100%; height:100%; object-fit:contain; object-position:center; background:#f5f5f5;" />
+          <img src="{{ '/images/lingxiao.jpg' | relative_url }}" alt="Photo of lingxiao" loading="lazy" class="person-photo--contain" />
         </div>
         <div class="person-body">
           <h3 class="person-name">Lingxiao Wang（王凌霄）</h3>
@@ -208,7 +201,7 @@ document.addEventListener('DOMContentLoaded', function() {
       <!-- Organizer: Ahmad -->
       <div class="person-card">
         <div class="person-media">
-          <img src="{{ '/images/hammad.jpg' | relative_url }}" alt="Photo of Vinicius Mikuni" loading="lazy" style="width:100%; height:100%; object-fit:contain; object-position:center; background:#f5f5f5;" />
+          <img src="{{ '/images/hammad.jpg' | relative_url }}" alt="Photo of Vinicius Mikuni" loading="lazy" class="person-photo--contain" />
         </div>
         <div class="person-body">
           <h3 class="person-name">Ahmed Hammad</h3>
@@ -323,11 +316,11 @@ document.addEventListener('DOMContentLoaded', function() {
     <p>Community volunteers contribute to operations, events, outreach, and technical infrastructure.</p>
     <div class="volunteer-grid">
       <div class="person-card volunteer-card">
-        <div class="person-media" style="overflow:hidden; position:relative;">
+        <div class="person-media">
           <img src="{{ '/images/shiva.jpeg' | relative_url }}"
                alt="Photo of Shivasankar K.A"
                loading="lazy"
-               style="width:100%; height:100%; object-fit:cover; object-position:center; transform:scale(1.35);">
+               class="person-photo--zoom-135">
         </div>
         <div class="person-body">
           <h3 class="person-name">Shivasankar K.A</h3>
@@ -355,7 +348,7 @@ document.addEventListener('DOMContentLoaded', function() {
     <div class="highlight-box">
       <h3> Join Our Community</h3>
       <p>Interested in contributing to our organizing efforts or participating in our activities? We welcome new members and collaborators who want to advance AI+HEP research and education in East Asia.</p>
-      <div style="text-align: center; margin-top: 2rem;">
+      <div class="cta-center">
         <a href="https://groups.google.com/g/hep-aie" class="btn">Contact Us</a>
         <a href="/workshops/" class="btn btn-outline">View events</a>
       </div>

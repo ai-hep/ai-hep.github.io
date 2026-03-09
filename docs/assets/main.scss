@@ -219,7 +219,7 @@ a:hover {
   font-size: 1.1rem !important;
   max-width: 600px !important;
   margin: 0 auto var(--spacing-lg) auto !important;
-  opacity: 0.8 !important;
+  opacity: 1.0 !important;
   line-height: 1.6 !important;
 }
 
@@ -1339,4 +1339,354 @@ a:focus {
   .hero-section-fullscreen {
     background: linear-gradient(135deg, rgba(30, 42, 58, 0.85), rgba(212, 165, 116, 0.3)), url('{{ "/images/hero_simple.png" | relative_url }}') 80% center/100% no-repeat;
   }
+}
+
+
+/* -------------------------------------------------------------------------- */
+/* Page & Component Layout (moved from inline styles)                          */
+/* -------------------------------------------------------------------------- */
+
+/* Header include layout */
+.site-header-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.site-header-brand {
+  display: flex;
+  align-items: center;
+}
+
+.site-logo {
+  width: 48px;
+  height: 48px;
+  margin-right: 1rem;
+  border-radius: 4px;
+}
+
+/* Home / landing hero */
+.hero-section-fullscreen {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  box-sizing: border-box;
+  margin-top: -60px;
+  margin-left: calc(-50vw + 50%);
+  margin-right: calc(-50vw + 50%);
+  padding-top: 100px;
+}
+
+.home-hero-inner {
+  text-align: center;
+  max-width: 800px;
+  padding: 1rem;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.home-hero-head {
+  margin-bottom: 2rem;
+}
+
+.hero-section-fullscreen .hero-title {
+  font-size: clamp(2rem, 8vw, 3.5rem) !important;
+  font-weight: 700 !important;
+  color: var(--yang-light) !important;
+  margin-bottom: 1rem !important;
+  text-shadow:
+    -1px 0 0 rgba(0, 0, 0, 0.22),
+    1px 0 0 rgba(0, 0, 0, 0.22),
+    0 -1px 0 rgba(0, 0, 0, 0.22),
+    0 1px 0 rgba(0, 0, 0, 0.22),
+    0 6px 18px rgba(0, 0, 0, 0.22);
+  line-height: 1.1 !important;
+  padding: 0 1rem;
+}
+
+.hero-section-fullscreen .hero-subtitle {
+  font-size: clamp(1rem, 4vw, 1.3rem) !important;
+  color: rgba(255, 255, 255, 0.9) !important;
+  margin-bottom: 1.5rem !important;
+  font-weight: 300 !important;
+  text-shadow:
+    -1px 0 0 rgba(0, 0, 0, 0.18),
+    1px 0 0 rgba(0, 0, 0, 0.18),
+    0 -1px 0 rgba(0, 0, 0, 0.18),
+    0 1px 0 rgba(0, 0, 0, 0.18);
+  padding: 0 1rem;
+}
+
+.hero-section-fullscreen .hero-description {
+  font-size: clamp(1rem, 3vw, 1.1rem) !important;
+  color: rgba(255, 255, 255, 0.85) !important;
+  line-height: 1.5 !important;
+  margin-bottom: 2rem !important;
+  max-width: 600px !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  text-shadow:
+    -1px 0 0 rgba(0, 0, 0, 0.16),
+    1px 0 0 rgba(0, 0, 0, 0.16),
+    0 -1px 0 rgba(0, 0, 0, 0.16),
+    0 1px 0 rgba(0, 0, 0, 0.16);
+  padding: 0 1rem;
+}
+
+.home-hero-actions {
+  margin-bottom: 2rem;
+}
+
+.home-intro-section {
+  margin-top: 4rem;
+  padding: 2rem;
+}
+
+.section-title.section-title--home-join {
+  margin-top: 5rem;
+}
+
+.highlight-box.highlight-box--mt-0 {
+  margin-top: 0;
+}
+
+.home-join-lead {
+  text-align: center;
+  font-size: 1.05rem;
+  margin-bottom: 2rem;
+}
+
+.home-join-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+.home-join-card {
+  text-align: center;
+  padding: 1rem;
+}
+
+.home-join-icon-spacer {
+  font-size: 2rem;
+  margin-bottom: 0.5rem;
+}
+
+.home-join-card-title {
+  margin: 0 0 0.5rem 0;
+  color: var(--accent-color);
+}
+
+.home-join-btn {
+  width: 100%;
+  max-width: 220px;
+}
+
+/* Small reusable layout helpers */
+.btn-row.btn-row--mt-2 {
+  margin-top: 2rem;
+}
+
+.btn-row.btn-row--mt-3 {
+  margin-top: 3rem;
+}
+
+.cta-center {
+  text-align: center;
+  margin-top: 2rem;
+}
+
+/* Workshops media */
+.workshop-image {
+  margin-bottom: 1.5rem;
+}
+
+.workshop-photo {
+  width: 100%;
+  height: 250px;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.workshop-photo--contain { object-fit: contain; }
+.workshop-photo--pos-50 { object-position: center 50%; }
+.workshop-photo--pos-40 { object-position: center 40%; }
+.workshop-photo--scale-90 { transform: scale(0.9); }
+
+/* Seminars participate grid */
+.participate-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 2rem;
+}
+
+.participate-grid p {
+  margin-bottom: 1rem;
+}
+
+/* Curriculum page */
+.lead-paragraph {
+  font-size: 1.1rem;
+  color: var(--text-secondary);
+  max-width: 800px;
+}
+
+.contribute-section {
+  margin-top: 4rem;
+}
+
+.highlight-box.contribute-box {
+  text-align: center;
+  padding: 2.5rem;
+}
+
+.contribute-title {
+  color: var(--accent-color);
+  font-size: 1.8rem;
+  margin-bottom: 1rem;
+}
+
+.contribute-desc {
+  font-size: 1.1rem;
+  max-width: 600px;
+  margin: 0 auto 2rem;
+}
+
+/* Journal clubs page (simplified past-sessions styling) */
+#past-sessionss {
+  max-width: 900px;
+  margin: var(--spacing-xl) auto;
+  padding: 0 var(--spacing-md);
+}
+
+#past-sessionss h2 {
+  font-size: 2.3rem;
+  font-weight: 700;
+  color: var(--yin-dark);
+  border-bottom: 3.5px solid var(--accent-color);
+  padding-bottom: var(--spacing-xs);
+  margin: 2.5rem 0 1.25rem;
+}
+
+#past-sessionss dl {
+  margin: 0;
+  padding: 0;
+}
+
+#past-sessionss dt {
+  margin: 1.75rem 0 0;
+  padding: 1.25rem 0 0;
+  border-top: 1px solid var(--border-color);
+  font-weight: 700;
+  color: var(--yin-dark);
+  font-size: 1.2rem;
+  letter-spacing: 0.2px;
+}
+
+#past-sessionss dt:first-of-type {
+  margin-top: 0.5rem;
+  padding-top: 0;
+  border-top: 0;
+}
+
+#past-sessionss dd {
+  margin: 0.5rem 0 0;
+  padding: 0.15rem 0 0.15rem 1rem;
+  border-left: 3px solid var(--gray-400);
+  color: var(--text-primary);
+}
+
+/* in case single date has multiple definition items */
+#past-sessionss dd + dd {
+  margin-top: 0.85rem;
+}
+
+#past-sessionss dd h3 {
+  margin: 0 0 0.35rem;
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: var(--accent-color);
+}
+
+#past-sessionss dd p {
+  margin: 0.35rem 0 0.85rem;
+  color: var(--text-secondary);
+}
+
+#past-sessionss dd ul,
+#past-sessionss dd ol {
+  margin: 0.25rem 0 0.85rem 1.25rem;
+}
+
+#past-sessionss dd li {
+  margin: 0.15rem 0;
+}
+
+#past-sessionss .focus-label {
+  background: var(--gray-100);
+  border: 1px solid var(--border-color);
+  color: var(--yin-dark);
+  padding: 0.1rem 0.45rem;
+  border-radius: 999px;
+  font-weight: 700;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+}
+
+/* (kept for backward compatibility) */
+#past-sessionss #others {
+  font-size: 1.05rem;
+}
+
+@media (max-width: 768px) {
+  #past-sessionss {
+    padding: 0 var(--spacing-sm);
+  }
+
+  #past-sessionss dd {
+    padding-left: 0.85rem;
+  }
+}
+
+.journalclubs-intro {
+  font-size: 1.1rem;
+  line-height: 1.6;
+  margin-bottom: 2rem;
+}
+
+/* Organizers page overrides */
+.organizers-page .person-bio {
+  border: none;
+  font-size: 0.85rem;
+}
+
+.person-photo--contain {
+  object-fit: contain !important;
+  object-position: center !important;
+  background: #f5f5f5;
+}
+
+.person-photo--zoom-135 {
+  transform: scale(1.35);
+}
+
+/* 404 page */
+.error-container {
+  margin: 10px auto;
+  max-width: 600px;
+  text-align: center;
+}
+
+.error-container h1 {
+  margin: 30px 0;
+  font-size: 4em;
+  line-height: 1;
+  letter-spacing: -1px;
 }

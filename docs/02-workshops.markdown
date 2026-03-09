@@ -23,8 +23,8 @@ order: 3
     <div class="workshop-grid">
       <!-- Upcoming Workshop -->
       <div class="simple-card workshop-card">
-        <div class="workshop-image" style="margin-bottom: 1.5rem;">
-          <img src="{{ '/images/aihep2026.jpg' | relative_url }}" alt="AI+HEP Workshop 2026 Group Photo" style="width: 100%; height: 250px; object-fit: contain; object-position: center 50%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); transform: scale(0.9);">
+        <div class="workshop-image">
+          <img src="{{ '/images/aihep2026.jpg' | relative_url }}" alt="AI+HEP Workshop 2026 Group Photo" class="workshop-photo workshop-photo--contain workshop-photo--pos-50 workshop-photo--scale-90">
         </div>    <header class="card-head">
           <h3 class="card-title">AI+HEP Workshop 2026</h3>
         </header>
@@ -38,8 +38,8 @@ order: 3
       </div>
 
       <div class="simple-card workshop-card">
-        <div class="workshop-image" style="margin-bottom: 1.5rem;">
-          <img src="{{ '/images/aihep2025.jpg' | relative_url }}" alt="AI+HEP Workshop 2025 Group Photo" style="width: 100%; height: 250px; object-fit: cover; object-position: center 40%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+        <div class="workshop-image">
+          <img src="{{ '/images/aihep2025.jpg' | relative_url }}" alt="AI+HEP Workshop 2025 Group Photo" class="workshop-photo workshop-photo--pos-40">
         </div>
         <header class="card-head">
           <h3 class="card-title">AI+HEP Workshop 2025</h3>

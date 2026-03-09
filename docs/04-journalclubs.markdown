@@ -6,105 +6,17 @@ order: 5
 ---
 
 <!--
-<div class="hero-section" style="padding: 2rem 0; margin-bottom: 2rem;">
+<div class="hero-section hero-tight">
   <div class="wrapper">
-    <h1 class="hero-title" style="font-size: 2.5rem;">Journal Clubs</h1>
+    <h1 class="hero-title">Journal Clubs</h1>
     <p class="hero-subtitle">Exploring the Latest in AI + High Energy Physics</p>
   </div>
 </div>
 -->
 
-<style>
-#section-title {
-  font-size: 2rem !important;
-  font-weight: 600 !important;
-  /* margin-bottom: var(--spacing-lg) !important; */
-  color: var(--yin-dark) !important;
-  border-bottom: 3px solid var(--accent-color) !important;
-  /* padding-bottom: var(--spacing-sm) !important; */
-  display: block;
-}
-
-#past-sessionss dl{
-  display: grid;
-  grid-gap: 4px 16px;
-  grid-template-columns: minmax(15ch, max-content) 1fr;
-  border: 1px solid var(--border-color);
-  border-radius: 12px;
-  padding: 0.2rem 0.5rem 0.5rem;
-  transition: border-color 0.25s ease, transform 0.25s ease, box-shadow 0.25s ease;
-}
-#past-sessionss dl:hover{
-  border-color: var(--accent-color);
-  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.08);
-  transform: translateY(-2px);
-}
-
-#past-sessionss dt
-{
-  background: var(--accent-color);
-  color: var(--yang-light);
-  padding: 0.2rem 0.5rem;
-  margin-top: 0.3rem;
-  border-radius: 4px;
-  font-weight: 600;
-  font-size: 0.85rem;
-  letter-spacing: 0.5px;
-  display: inline-block;
-  align-self: start;
-  white-space: nowrap;
-  width: max-content;
-  overflow: visible;
-}
-#past-sessionss dd
-{
-  background: white;
-  color: var(--text-primary) !important;
-  padding: 0.2rem 0.5rem;
-  margin-top: 0.3rem;
-  border-radius: 8px;
-  font-weight: 600;
-  font-size: 0.85rem;
-  letter-spacing: 0.5px;
-  display: inline-block;
-  grid-column-start: 2;
-}
-
-
-#past-sessionss h2 
-{
-  background: var(--accent-color);
-  color: var(--yang-light);
-  padding: 0.2rem 0.5rem;
-  margin-top: 0.3rem;
-  border-radius: 4px;
-  font-weight: 600;
-  font-size: 0.85rem;
-  letter-spacing: 0.5px;
-  display: inline-block;
-}
-#past-sessionss .focus-label {
-  background: var(--yin-dark);
-  color: var(--yang-light);
-  letter-spacing: 0.5px;
-  padding: 2px 6px 3px;
-  border-radius: 8px;
-  text-transform: uppercase;
-  font-weight: 600;
-}
-#past-sessionss h3 
-{
-  font-size: 1.15rem;
-}
-#past-sessionss #others 
-{
-  font-size: 1.05rem;
-}
-</style>
-
 <div class="wrapper">
     <div class="content-section">
-        <p style="font-size: 1.1rem; line-height: 1.6; margin-bottom: 2rem;">
+        <p class="journalclubs-intro">
             Our journal clubs bring together researchers to discuss various developments 
             at the intersection of artificial intelligence and high energy physics. Join us for in-depth 
             discussions on both theoretical foundations and practical applications.
@@ -125,7 +37,7 @@ order: 5
 
 <div id="past-sessionss" markdown=1>
 
-Past Sessions - 2026 {#section-title}
+Past Sessions - 2026
 --------------------
 
 2025-03-16
@@ -162,7 +74,7 @@ Past Sessions - 2026 {#section-title}
 
 <!-- -------------------------------------------- -->
 
-Past Sessions - 2025 {#section-title}
+Past Sessions - 2025
 --------------------
 
 2025-12-08
@@ -206,7 +118,7 @@ Past Sessions - 2025 {#section-title}
   * **focused**{:.focus-label} [Double Descent and Overparameterization in Particle Physics Data](https://arxiv.org/abs/2509.01397) (arXiv:2509.01397)
   * [Double Descent](https://chris-said.io/2023/04/21/double-descent-in-human-learning/)
   * [Grokking: Generalization Beyond Overfitting on Small Algorithmic Datasets](https://arxiv.org/abs/2201.02177) (arXiv:2201.02177)
-: ### Other Papers {#others}
+: ### Other Papers
   * [Higgs Signal Strength Estimation with Machine Learning under Systematic Uncertainties](https://arxiv.org/abs/2509.00672) (arXiv:2509.00672)
 
 <!-- -------------------------------------------- -->
@@ -252,7 +164,7 @@ Past Sessions - 2025 {#section-title}
 2025-06-16
 : ### Neural Network Compositionality & Mechanistic Interpretability
   * **focused**{:.focus-label} [Break It Down: Evidence for Structural Compositionality in Neural Networks](https://arxiv.org/abs/2301.10884) (arXiv:2301.10884)
-: ### Other Papers {#others}
+: ### Other Papers
   * [Interpreting the structure of multi-object representations in vision encoders](https://arxiv.org/abs/2406.09067) (arXiv:2406.09067)
   * [Tracing Thoughts in Language Models](https://www.anthropic.com/research/tracing-thoughts-language-model) (anthropic)
   * [Mapping the Mind of Language Models](https://www.anthropic.com/research/mapping-mind-language-model) (anthropic)

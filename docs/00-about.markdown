@@ -5,10 +5,10 @@ permalink: /about/
 order: 1
 ---
 
-<div class="hero-section" style="padding: 3rem 0; margin-bottom: 3rem;">
+<div class="hero-section">
   <div class="wrapper">
-    <h1 class="hero-title" style="font-size: 2.5rem;">About AI+HEP East Asia</h1>
-    <p class="hero-subtitle" style="font-size: 1.2rem;"></p>
+    <h1 class="hero-title">About AI+HEP East Asia</h1>
+    <p class="hero-subtitle"></p>
   </div>
 </div>
 
@@ -52,12 +52,12 @@ order: 1
       <p>Join our Slack workspace to connect with fellow researchers, stay updated on events, and participate in ongoing discussions.</p>
     </div>
     
-    <div class="btn-row center" style="margin-top: 2rem;">
+    <div class="btn-row center btn-row--mt-2">
       <a href="mailto:tianjiresearch@gmail.com,vmikuni@cern.ch,huilin.qu@cern.ch?subject=Request%20Slack%20invitation%20for%20AI%20%2B%20HEP&body=Hi%2C%0A%0AI%27d%20like%20to%20join%20the%20AI%2BHEP%20East%20Asia%20Slack%20workspace.%0A%0AName%3A%20%0AInstitution%3A%20%0AResearch%20interests%3A%20%0A%0AThank%20you%21" class="btn">Request Slack Invitation</a>
     </div>
   </div>
 
-  <div class="btn-row center" style="margin-top: 3rem;">
+  <div class="btn-row center btn-row--mt-3">
     <a href="/organizers/" class="btn">Meet Our Team</a>
     <a href="/workshops/" class="btn btn-outline">View Events</a>
   </div>

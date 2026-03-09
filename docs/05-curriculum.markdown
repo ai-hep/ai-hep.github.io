@@ -14,8 +14,8 @@ order: 6
 
 <div class="wrapper">
   <div class="content-section">
-    <p style="font-size: 1.1rem; color: var(--text-secondary); max-width: 800px;">
-      A comprehensive collection of lectures, tutorials, and learning materials designed to help students and researchers understand the intersection of artificial intelligence and high energy physics.
+    <p class="lead-paragraph">
+      A collection of lectures, tutorials, and learning materials designed to help students and researchers understand the intersection of artificial intelligence and high energy physics.
     </p>
   </div>
 
@@ -49,7 +49,7 @@ order: 6
           <span><strong>Type:</strong> Lecture Series</span>
         </div>
         <p class="resource-item-desc">
-          Expert-level lectures combining quantum chromodynamics with modern machine learning techniques. Explores how ML can enhance understanding of jet physics and particle interactions at colliders.
+          Lectures from the 2024 QCD Masterclass that review core ML principles through concrete jet-tagging and jet-discrimination problems in collider physics.
         </p>
       </li>
 
@@ -62,23 +62,10 @@ order: 6
           <span><strong>Type:</strong> Lecture Notes</span>
         </div>
         <p class="resource-item-desc">
-          Explores how fundamental physics principles can inform and improve machine learning methodologies. Bridges the gap between theoretical physics and modern AI research.
+          Notes from Jim Halverson’s TASI 2024 lectures that develop neural network theory through a field-theory lens familiar to theoretical physicists.
         </p>
       </li>
     </ul>
-  </div>
-
-  <div class="content-section" style="margin-top: 4rem;">
-    <div class="highlight-box" style="text-align: center; padding: 2.5rem;">
-      <h3 style="color: var(--accent-color); font-size: 1.8rem; margin-bottom: 1rem;">Contribute Resources</h3>
-      <p style="font-size: 1.1rem; max-width: 600px; margin: 0 auto 2rem;">
-        Help expand our educational library! Share tutorials, course materials, Jupyter notebooks, or learning guides to make AI+HEP more accessible to newcomers.
-      </p>
-      <div class="btn-row center">
-        <a href="https://groups.google.com/g/hep-aiea" class="btn">Submit a Resource</a>
-        <!-- <a href="/workshops/" class="btn btn-outline">View events</a> -->
-      </div>
-    </div>
   </div>
 </div>
 
