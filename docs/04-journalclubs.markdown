@@ -16,7 +16,7 @@ order: 5
 
 <style>
 #past-sessionss {
-    max-width: none;
+    max-width: var(--max-width);
 }
 
 #past-sessionss dl{
