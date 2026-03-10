@@ -15,16 +15,6 @@ order: 5
 -->
 
 <style>
-#section-title {
-  font-size: 2rem !important;
-  font-weight: 600 !important;
-  /* margin-bottom: var(--spacing-lg) !important; */
-  color: var(--yin-dark) !important;
-  border-bottom: 3px solid var(--accent-color) !important;
-  /* padding-bottom: var(--spacing-sm) !important; */
-  display: block;
-}
-
 #past-sessionss dl{
   display: grid;
   grid-gap: 4px 16px;
