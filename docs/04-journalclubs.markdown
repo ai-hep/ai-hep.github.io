@@ -62,7 +62,7 @@ order: 5
   font-weight: 600;
   font-size: 0.85rem;
   letter-spacing: 0.5px;
-  margin-top: 0.5rem;
+  margin-top: 0.3rem;
   display: inline-block;
   grid-column-start: 2;
 }
@@ -75,6 +75,7 @@ order: 5
 #past-sessionss h3 
 {
   font-size: 1.15rem;
+  color: var(--text-primary) !important;
 }
 #past-sessionss #others 
 {
@@ -92,6 +93,7 @@ order: 5
                 <li><strong>Duration:</strong> 60 minutes with Q&A</li>
                 <li><strong>Language:</strong> English</li>
                 <li><strong>Time:</strong> Monday 3 PM Beijing, 4 PM JST/KST</li>
+                <li><strong>Access link:</strong> Please check out journal club channel on our slack.</li>
             </ul>
         </div>
     </div>
