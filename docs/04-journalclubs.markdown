@@ -62,7 +62,7 @@ order: 5
   font-weight: 600;
   font-size: 0.85rem;
   letter-spacing: 0.5px;
-  margin-top: 0;
+  margin-top: 0.85rem;
   display: inline-block;
   grid-column-start: 2;
 }
