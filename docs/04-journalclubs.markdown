@@ -60,19 +60,6 @@ order: 5
   grid-column-start: 2;
 }
 
-
-#past-sessionss h2 
-{
-  background: var(--accent-color);
-  color: var(--yang-light);
-  padding: 0.2rem 0.5rem;
-  margin-top: 0.3rem;
-  border-radius: 4px;
-  font-weight: 600;
-  font-size: 0.85rem;
-  letter-spacing: 0.5px;
-  display: inline-block;
-}
 #past-sessionss .focus-label {
   background: var(--yin-dark);
   color: var(--yang-light);
