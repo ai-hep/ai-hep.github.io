@@ -26,7 +26,7 @@ order: 5
   border: 1px solid var(--border-color);
   border-radius: 12px;
   padding: 0.2rem 0.5rem 0.5rem;
-  margin-bottom: 1em;
+  margin-bottom: 0.5em;
   transition: border-color 0.25s ease, transform 0.25s ease, box-shadow 0.25s ease;
 }
 #past-sessionss dl:hover{
@@ -56,13 +56,16 @@ order: 5
   background: white;
   color: var(--text-primary) !important;
   padding: 0.2rem 0.5rem;
-  margin-top: 0.3rem;
   border-radius: 8px;
   font-weight: 600;
   font-size: 0.85rem;
   letter-spacing: 0.5px;
   display: inline-block;
   grid-column-start: 2;
+}
+#past-sessionss dd+dd
+{
+  margin-top: 0.3rem;
 }
 
 #past-sessionss .focus-label {
