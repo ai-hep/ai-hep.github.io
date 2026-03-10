@@ -15,6 +15,10 @@ order: 5
 -->
 
 <style>
+#past-sessionsss {
+    max-width: none;
+}
+
 #past-sessionss dl{
   display: grid;
   grid-gap: 4px 16px;
