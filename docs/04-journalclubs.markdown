@@ -51,6 +51,8 @@ order: 5
   width: max-content;
   overflow: visible;
 }
+
+/* dd, global */
 #past-sessionss dd
 {
   background: white;
@@ -63,7 +65,8 @@ order: 5
   display: inline-block;
   grid-column-start: 2;
 }
-#past-sessionss dd+dd
+/* dd, second appearance */
+#past-sessionss dd+dd  
 {
   margin-top: 0.3rem;
 }
