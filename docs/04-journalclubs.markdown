@@ -72,15 +72,6 @@ order: 5
   margin-top: 0.3rem;
 }
 
-#past-sessionss .focus-label {
-  background: var(--yin-dark);
-  color: var(--yang-light);
-  letter-spacing: 0.5px;
-  padding: 2px 6px 3px;
-  border-radius: 8px;
-  text-transform: uppercase;
-  font-weight: 600;
-}
 #past-sessionss h3 
 {
   font-size: 1.15rem;
