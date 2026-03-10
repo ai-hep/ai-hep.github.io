@@ -104,12 +104,6 @@ order: 5
 
 <div class="wrapper">
     <div class="content-section">
-        <p style="font-size: 1.1rem; line-height: 1.6; margin-bottom: 2rem;">
-            Our journal clubs bring together researchers to discuss various developments 
-            at the intersection of artificial intelligence and high energy physics. Join us for in-depth 
-            discussions on both theoretical foundations and practical applications.
-        </p>
-
         <div class="highlight-box">
             <h3>📅 Meeting Details</h3>
             <ul>
