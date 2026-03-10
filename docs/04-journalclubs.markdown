@@ -15,7 +15,7 @@ order: 5
 -->
 
 <style>
-#past-sessionsss {
+#past-sessionss {
     max-width: none;
 }
 
