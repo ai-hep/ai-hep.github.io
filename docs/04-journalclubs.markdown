@@ -26,6 +26,7 @@ order: 5
   border: 1px solid var(--border-color);
   border-radius: 12px;
   padding: 0.2rem 0.5rem 0.5rem;
+  margin-bottom: 1em;
   transition: border-color 0.25s ease, transform 0.25s ease, box-shadow 0.25s ease;
 }
 #past-sessionss dl:hover{
