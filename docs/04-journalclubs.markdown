@@ -109,7 +109,7 @@ order: 5
 
 <div id="past-sessionss" markdown=1>
 
-Past Sessions - 2026 {#section-title}
+Past Sessions - 2026
 --------------------
 
 2025-03-16
