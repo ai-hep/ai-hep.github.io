@@ -104,8 +104,20 @@ order: 5
 Past Sessions - 2026
 --------------------
 
-2025-03-16
+2025-03-23
 : ### TBA
+
+<!-- -------------------------------------------- -->
+
+2025-03-16
+: ### Discussion on LLM and Simulation-based Inference in Astrophysics
+  * [A simulation-based inference of the Milky Way merger history](https://arxiv.org/abs/2603.12317)
+  * [IllustrisTNG](https://www.tng-project.org/)
+  * [Auriga Project](https://wwwmpa.mpa-garching.mpg.de/auriga/)
+  * [Why do we do astrophysics](https://arxiv.org/abs/2602.10181)
+: ### Latent Space and Non-Euclidean Geometry
+  * [Universal New Physics Latent Space](https://arxiv.org/abs/2407.20315)
+  * [t-SNE](https://en.wikipedia.org/wiki/T-distributed_stochastic_neighbor_embedding)
 
 <!-- -------------------------------------------- -->
 
