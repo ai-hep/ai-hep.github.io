@@ -18,6 +18,8 @@ h3 .tags {
   padding-left: 10px;
   display: flex;
   gap: 6px;                 /* spacing between tags */
+  flex-direction: column;
+  align-items: flex-end;    /* keep them right-aligned */
 }
 h3 .tag {
   font-size: 1.0em;
@@ -146,6 +148,8 @@ Mar. 18 (Wed)
     How LLM can help particle physicists 
     <span class="tags">
       <span class="tag">#AI4KMI seminar</span>
+      <span class="tag">#AI4KMI seminar</span>
+      <span class="tag">#AI4KMI seminar</span>
     </span>
   </h3>
 
@@ -154,7 +158,7 @@ Mar. 18 (Wed)
   * [link to the seminar page](https://www.kmi.nagoya-u.ac.jp/eng/seminar/3497/)
   * <details>
       <summary data-open="Abstract" data-close="Show Abstract"></summary>
-      In this talk, I want to discuss evolving field of application of LLM to the scientific coding. The HEP analysis often require lengthy coding of high reliability. We introduce CoLLM, which allows to generate analysis code from the LLM prompts quickly. The package include the automatic bag fixing, and it is now quickly evolving toward code reviews and refinements. I also comments the possible application to the other field and implication from brain functions.
+      In this talk, I want to discuss evolving field of application of LLM to the scientific coding. The HEP analysis often require lengthy coding of high reliability. We introduce CoLLM, which allows to generate analysis code from the LLM prompts quickly. The package include the automatic bug fixing, and it is now quickly evolving toward code reviews and refinements. I also comments the possible application to the other field and implication from brain functions.
     </details>
 
 <!-- ----------------------------------- -->
