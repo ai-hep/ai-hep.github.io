@@ -5,19 +5,168 @@ permalink: /seminars/
 order: 4
 ---
 
+
+<style>
+h3 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+
+h3 .tags {
+  margin-left: auto;        /* push ALL tags to the right */
+  display: flex;
+  gap: 6px;                 /* spacing between tags */
+}
+h3 .tag {
+  font-size: 1.0em;
+  color: black;
+  background: #eef2ff;
+  padding: 2px 8px;
+  border-radius: 6px;
+  white-space: nowrap;
+  margin-top: 0.2rem;
+}
+
+#bulletin-board dl{
+  display: grid;
+  grid-gap: 4px 16px;
+  grid-template-columns: minmax(19ch, max-content) 1fr;
+  border: 1px solid var(--border-color);
+  border-radius: 12px;
+  padding: 0.2rem 0.5rem 0.5rem;
+  margin-bottom: 0.5em;
+  transition: border-color 0.25s ease, transform 0.25s ease, box-shadow 0.25s ease;
+}
+#bulletin-board dl:hover{
+  border-color: var(--accent-color);
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.08);
+  transform: translateY(-2px);
+}
+#bulletin-board dt
+{
+  background: var(--accent-color);
+  color: var(--yang-light);
+  padding: 0.2rem 0.5rem;
+  margin-top: 0.3rem;
+  border-radius: 4px;
+  font-weight: 600;
+  font-size: 1.5rem;
+  letter-spacing: 0.5px;
+  display: inline-block;
+  align-self: start;
+  white-space: nowrap;
+  width: minmax(19ch, max-content);
+  overflow: visible;
+}
+#bulletin-board dd
+{
+  background: white;
+  color: var(--text-primary) !important;
+  padding: 0.2rem 0.5rem;
+  border-radius: 8px;
+  font-weight: 600;
+  font-size: 0.85rem;
+  letter-spacing: 0.5px;
+  margin-top: 0.3rem;
+  display: inline-block;
+  grid-column-start: 2;
+}
+
+
+#bulletin-board li > details {
+  list-style: none;
+}
+#bulletin-board li:has(> details) {
+  list-style: none;
+}
+
+#bulletin-board details[open] summary::after {
+  content: attr(data-open);
+}
+
+#bulletin-board details:not([open]) summary::after {
+  content: attr(data-close);
+}
+</style>
+
 <section class="hero-section hero-tight">
   <div class="wrapper">
-    <h1 class="hero-title">Monthly Seminars</h1>
+    <h1 class="hero-title">Seminars</h1>
     <p class="hero-subtitle">AI + High Energy Physics research presentations and discussions</p>
   </div>
 </section>
 
-<div class="wrapper">
-  <section class="content-section">
-    <h2 class="section-title">Overview</h2>
-    <p>Online joint seminars at the intersection of AI and fundamental physics open to all participants. Open to all interested participants across East Asia and beyond.</p>
-  </section>
 
+<div id="bulletin-board" markdown=1>
+
+Our online joint seminars are at the intersection of AI and fundamental physics open to all participants. We are open to all interested participants across East Asia and beyond. For zoom links, please check out our slack channel or contact organizers.
+
+Upcoming Seminars
+-----------------
+
+Mar. 24 (Tue)
+: <h3>
+    Connecting Simulations and Observations with Differentiable Simulations and Field Level Inference
+    <span class="tags">
+      <span class="tag">#AI4KMI seminar</span>
+    </span>
+  </h3>
+
+  * Speaker: Benjamin Horowitz (IPMU)
+  * Time: 5:00 PM JST/KST, 4:00 PM Beijing
+  * <details>
+      <summary data-open="Abstract" data-close="Show Abstract"></summary>
+      The rapid growth of both astrophysical data and simulation capabilities is creating a new opportunity. Instead of being tied to summary statistics (like correlation functions and power spectra), we can begin to connect simulations and observations directly at the field level. In this talk, I will present a framework for field-level, multi-probe inference built around differentiable simulations, where gradients can be propagated through the forward model itself. I will focus on diffhydro, a differentiable hydrodynamics framework written in JAX that combines modern multiphysics solvers with end-to-end automatic differentiation. Starting from simple dark-matter models, we can incrementally add more realistic physics, including turbulence, radiative heating and cooling, and self-gravity, while retaining the ability to optimize directly through the simulation. This makes it possible to connect observations to initial conditions (i.e. latent fields), physical parameters, and unresolved processes in a unified way. I will show how these ideas open the door to reconstructing the history of the Universe and how the same framework can be a platform for embedded machine learning models for additional acceleration and new physics discovery.
+    </details>
+
+<!-- ----------------------------------- -->
+
+Past Seminars 2026
+-------------
+
+Jan. 13 (Tue)
+: <h3>
+    How LLM can help particle physicists 
+    <span class="tags">
+      <span class="tag">#AI4KMI seminar</span>
+    </span>
+  </h3>
+
+  * Speaker: Mihoko Nojiri (KEK)
+  * Time: 5:00 PM JST/KST, 4:00 PM Beijing
+  * [link to the seminar page](https://www.kmi.nagoya-u.ac.jp/eng/seminar/3497/)
+  * <details>
+      <summary data-open="Abstract" data-close="Show Abstract"></summary>
+      In this talk, I want to discuss evolving field of application of LLM to the scientific coding. The HEP analysis often require lengthy coding of high reliability. We introduce CoLLM, which allows to generate analysis code from the LLM prompts quickly. The package include the automatic bag fixing, and it is now quickly evolving toward code reviews and refinements. I also comments the possible application to the other field and implication from brain functions.
+    </details>
+
+<!-- ----------------------------------- -->
+
+Jan. 13 (Tue)
+: <h3>
+    Generative AI in Cosmology 
+    <span class="tags">
+      <span class="tag">#AI4KMI seminar</span>
+    </span>
+  </h3>
+
+  * Speaker: Leander Thiele (IPMU)
+  * Time: 3:00 PM JST/KST, 2:00 PM Beijing
+  * [link to the seminar page](https://www.kmi.nagoya-u.ac.jp/eng/seminar/3469/)
+  * <details>
+      <summary data-open="Abstract" data-close="Show Abstract"></summary>
+      Increasing data volumes, pushing to non-linear scales, create opportunities for machine learning in cosmology. One primary challenges is the inverse problem implicitly defined through simulations. Neural simulation-based inference is increasingly being recognized as a tool. I will review this technique and present some work both on observational data as well as on methodological development, specifically multi-fidelity inference. In the second part of the talk, I will present recent work on probabilistic identification of cosmic voids.
+    </details>
+
+<!-- ----------------------------------- -->
+
+</div>
+
+
+<div class="wrapper">
+
+  <!--
   <section class="content-section">
     <h2 class="section-title">Upcoming</h2>
     <div class="card simple-card">
@@ -27,11 +176,12 @@ order: 4
       <p class="card-status"><strong>Schedule coming soon</strong></p>
       <!-- <p class="card-hint">We are finalizing invited speakers and dates.</p>
       <div class="card-actions">
-        <a href="mailto:contact@ai-hep.org" class="btn btn-outline">Get Updates</a> -->
-      <!-- </div> -->
+        <a href="mailto:contact@ai-hep.org" class="btn btn-outline">Get Updates</a> 
+      <!-- </div> 
     </div>
   </section>
-
+  -->
+ 
   <section class="content-section">
     <h2 class="section-title">Participate</h2>
     <div class="highlight-box compact">

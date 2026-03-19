@@ -1559,28 +1559,28 @@ a:focus {
   margin: 0 auto 2rem;
 }
 
-/* Journal clubs page (simplified past-sessions styling) */
-#past-sessionss {
-  max-width: 900px;
+/* Seminars and Journal clubs page (simplified past-sessions styling) */
+#bulletin-board {
+  max-width: var(--max-width);
   margin: var(--spacing-xl) auto;
   padding: 0 var(--spacing-md);
 }
 
-#past-sessionss h2 {
+#bulletin-board h2 {
   font-size: 2.3rem;
-  font-weight: 700;
+  /* font-weight: 700; */
   color: var(--yin-dark);
   border-bottom: 3.5px solid var(--accent-color);
   padding-bottom: var(--spacing-xs);
   margin: 2.5rem 0 1.25rem;
 }
 
-#past-sessionss dl {
+#bulletin-board dl {
   margin: 0;
   padding: 0;
 }
 
-#past-sessionss dt {
+#bulletin-board dt {
   margin: 1.75rem 0 0;
   padding: 1.25rem 0 0;
   border-top: 1px solid var(--border-color);
@@ -1590,13 +1590,13 @@ a:focus {
   letter-spacing: 0.2px;
 }
 
-#past-sessionss dt:first-of-type {
+#bulletin-board dt:first-of-type {
   margin-top: 0.5rem;
   padding-top: 0;
   border-top: 0;
 }
 
-#past-sessionss dd {
+#bulletin-board dd {
   margin: 0.5rem 0 0;
   padding: 0.15rem 0 0.15rem 1rem;
   border-left: 3px solid var(--gray-400);
@@ -1604,32 +1604,32 @@ a:focus {
 }
 
 /* in case single date has multiple definition items */
-#past-sessionss dd + dd {
+#bulletin-board dd + dd {
   margin-top: 0.85rem;
 }
 
-#past-sessionss dd h3 {
+#bulletin-board dd h3 {
   margin: 0 0 0.35rem;
   font-size: 1.05rem;
   font-weight: 700;
   color: var(--accent-color);
 }
 
-#past-sessionss dd p {
+#bulletin-board dd p {
   margin: 0.35rem 0 0.85rem;
   color: var(--text-secondary);
 }
 
-#past-sessionss dd ul,
-#past-sessionss dd ol {
+#bulletin-board dd ul,
+#bulletin-board dd ol {
   margin: 0.25rem 0 0.85rem 1.25rem;
 }
 
-#past-sessionss dd li {
+#bulletin-board dd li {
   margin: 0.15rem 0;
 }
 
-#past-sessionss .focus-label {
+#bulletin-board .focus-label {
   background: var(--gray-100);
   border: 1px solid var(--border-color);
   color: var(--yin-dark);
@@ -1641,16 +1641,16 @@ a:focus {
 }
 
 /* (kept for backward compatibility) */
-#past-sessionss #others {
+#bulletin-board #others {
   font-size: 1.05rem;
 }
 
 @media (max-width: 768px) {
-  #past-sessionss {
+  #bulletin-board {
     padding: 0 var(--spacing-sm);
   }
 
-  #past-sessionss dd {
+  #bulletin-board dd {
     padding-left: 0.85rem;
   }
 }

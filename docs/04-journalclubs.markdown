@@ -15,11 +15,7 @@ order: 5
 -->
 
 <style>
-#past-sessionss {
-    max-width: var(--max-width);
-}
-
-#past-sessionss dl{
+#bulletin-board dl{
   display: grid;
   grid-gap: 4px 16px;
   grid-template-columns: minmax(15ch, max-content) 1fr;
@@ -29,13 +25,13 @@ order: 5
   margin-bottom: 0.5em;
   transition: border-color 0.25s ease, transform 0.25s ease, box-shadow 0.25s ease;
 }
-#past-sessionss dl:hover{
+#bulletin-board dl:hover{
   border-color: var(--accent-color);
   box-shadow: 0 6px 18px rgba(0, 0, 0, 0.08);
   transform: translateY(-2px);
 }
 
-#past-sessionss dt
+#bulletin-board dt
 {
   background: var(--accent-color);
   color: var(--yang-light);
@@ -53,7 +49,7 @@ order: 5
 }
 
 /* dd, global */
-#past-sessionss dd
+#bulletin-board dd
 {
   background: white;
   color: var(--text-primary) !important;
@@ -67,17 +63,17 @@ order: 5
   grid-column-start: 2;
 }
 /* dd, second appearance */
-#past-sessionss dd+dd  
+#bulletin-board dd+dd  
 {
   margin-top: 0.3rem;
 }
 
-#past-sessionss h3 
+#bulletin-board h3 
 {
   font-size: 1.15rem;
   color: var(--text-primary) !important;
 }
-#past-sessionss #others 
+#bulletin-board #others 
 {
   font-size: 1.05rem;
 }
@@ -99,7 +95,7 @@ order: 5
     </div>
 </div>
 
-<div id="past-sessionss" markdown=1>
+<div id="bulletin-board" markdown=1>
 
 Past Sessions - 2026
 --------------------
