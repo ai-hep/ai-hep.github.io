@@ -125,7 +125,7 @@ Mar. 24 (Tue)
 Past Seminars 2026
 -------------
 
-Jan. 13 (Tue)
+Mar. 18 (Wed)
 : <h3>
     How LLM can help particle physicists 
     <span class="tags">
