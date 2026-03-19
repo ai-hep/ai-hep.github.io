@@ -58,6 +58,7 @@ h3 .tag {
   white-space: nowrap;
   width: minmax(20ch, max-content);
   overflow: visible;
+  text-align: left;
 }
 #bulletin-board dd
 {
