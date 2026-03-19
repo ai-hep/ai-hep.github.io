@@ -11,18 +11,23 @@ h3 {
   display: flex;
   align-items: flex-start;
   justify-content: space-between;
+  padding-right: 150px; 
+  font-size: 1.2em;
 }
 
-h3 .tags {
-  margin-left: auto;        /* push ALL tags to the right */
-  padding-left: 10px;
+.tags {
+  position: absolute;
+  top: 0.8rem;
+  right: 0.9rem;
+
   display: flex;
-  gap: 6px;                 /* spacing between tags */
   flex-direction: column;
-  align-items: flex-end;    /* keep them right-aligned */
+  gap: 4px;
+  align-items: flex-end;
 }
-h3 .tag {
-  font-size: 1.0em;
+.tag {
+  font-size: 1.1em;
+  font-weight: 700;
   color: black;
   background: #eef2ff;
   padding: 2px 8px;
@@ -32,6 +37,7 @@ h3 .tag {
 }
 
 #bulletin-board dl{
+  position: relative;
   display: grid;
   grid-gap: 4px 16px;
   grid-template-columns: minmax(20ch, max-content) 1fr;
@@ -110,12 +116,10 @@ Upcoming Seminars
 -----------------
 
 May 20 (Wed)
-: <h3>
-    TBA
-    <span class="tags">
-      <span class="tag">#CTPU-PTC seminar</span>
-    </span>
-  </h3>
+: ### TBA
+  <span class="tags">
+    <span class="tag">#CTPU-PTC seminar</span>
+  </span>
 
   * Speaker: Marie Hein (RWTH Aachen)
   * Time: 3:00 PM JST/KST, 2:00 PM Beijing
@@ -124,12 +128,10 @@ May 20 (Wed)
 
 
 Mar. 24 (Tue)
-: <h3>
-    Connecting Simulations and Observations with Differentiable Simulations and Field Level Inference
-    <span class="tags">
-      <span class="tag">#AI4KMI seminar</span>
-    </span>
-  </h3>
+: ### Connecting Simulations and Observations with Differentiable Simulations and Field Level Inference
+  <span class="tags">
+    <span class="tag">#AI4KMI seminar</span>
+  </span>
 
   * Speaker: Benjamin Horowitz (IPMU)
   * Time: 5:00 PM JST/KST, 4:00 PM Beijing
@@ -144,14 +146,10 @@ Past Seminars 2026
 -------------
 
 Mar. 18 (Wed)
-: <h3>
-    How LLM can help particle physicists 
-    <span class="tags">
-      <span class="tag">#AI4KMI seminar</span>
-      <span class="tag">#AI4KMI seminar</span>
-      <span class="tag">#AI4KMI seminar</span>
-    </span>
-  </h3>
+: ### How LLM can help particle physicists 
+  <span class="tags">
+    <span class="tag">#AI4KMI seminar</span>
+  </span>
 
   * Speaker: Mihoko Nojiri (KEK)
   * Time: 5:00 PM JST/KST, 4:00 PM Beijing
@@ -164,12 +162,10 @@ Mar. 18 (Wed)
 <!-- ----------------------------------- -->
 
 Jan. 29 (Thu)
-: <h3>
-    Status on Generative Unfolding 
-    <span class="tags">
-      <span class="tag">#AI4KMI seminar</span>
-    </span>
-  </h3>
+: ### Status on Generative Unfolding 
+  <span class="tags">
+    <span class="tag">#AI4KMI seminar</span>
+  </span>
 
   * Speaker: Sofia Palacios (Rutgers University)
   * Time: 5:00 PM JST/KST, 4:00 PM Beijing
@@ -183,12 +179,10 @@ This talk highlights recent progress on key open challenges: scaling to hundreds
 <!-- ----------------------------------- -->
 
 Jan. 13 (Tue)
-: <h3>
-    Generative AI in Cosmology 
-    <span class="tags">
-      <span class="tag">#AI4KMI seminar</span>
-    </span>
-  </h3>
+: ### Generative AI in Cosmology 
+  <span class="tags">
+    <span class="tag">#AI4KMI seminar</span>
+  </span>
 
   * Speaker: Leander Thiele (IPMU)
   * Time: 3:00 PM JST/KST, 2:00 PM Beijing
@@ -204,12 +198,10 @@ Past Seminars 2025
 ------------------
 
 Dec. 19 (Fri)
-: <h3>
-    Physics-Driven Learning for Solving Inverse Problems in QCD Physics 
-    <span class="tags">
-      <span class="tag">#AI4KMI seminar</span>
-    </span>
-  </h3>
+: ### Physics-Driven Learning for Solving Inverse Problems in QCD Physics 
+  <span class="tags">
+    <span class="tag">#AI4KMI seminar</span>
+  </span>
 
   * Speaker: Lingxiao Wang (RIKEN)
   * Time: 5:00 PM JST/KST, 4:00 PM Beijing
