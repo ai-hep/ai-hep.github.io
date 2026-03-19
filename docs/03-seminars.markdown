@@ -15,6 +15,7 @@ h3 {
 
 h3 .tags {
   margin-left: auto;        /* push ALL tags to the right */
+  padding-left: 10px;
   display: flex;
   gap: 6px;                 /* spacing between tags */
 }
