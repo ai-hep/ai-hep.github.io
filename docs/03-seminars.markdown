@@ -35,7 +35,11 @@ h3 {
   white-space: nowrap;
   margin-top: 0.2rem;
 }
-
+@media (max-width: 768px) {
+  .hero-section-fullscreen {
+    background: linear-gradient(135deg, rgba(30, 42, 58, 0.85), rgba(212, 165, 116, 0.3)), url('{{ "/images/hero_simple.png" | relative_url }}') 80% center/100% no-repeat;
+  }
+}
 #bulletin-board dl{
   position: relative;
   display: grid;
@@ -83,6 +87,38 @@ h3 {
   grid-column-start: 2;
 }
 
+/* mobile env*/ 
+@media (max-width: 768px) {
+  h3 {
+    padding-right: 0;              /* remove reserved space */
+    flex-direction: column;        /* stack */
+    align-items: flex-start;
+  }
+
+  .tags {
+    position: static;              /* 👈 back into flow (inside h3) */
+    display: flex;
+    flex-direction: row;           /* or column if you prefer */
+    gap: 6px;
+    margin-top: 4px;
+
+    align-self: flex-end;          /* 👈 keep them right-aligned */
+  }
+  
+  #bulletin-board dl {
+    grid-template-columns: 1fr;   /* single column */
+  }
+
+  #bulletin-board dt {
+    grid-column: 1;              /* ensure full width */
+    text-align: left;            /* optional: better for mobile */
+    width: auto;                 /* override your fixed width */
+  }
+
+  #bulletin-board dd {
+    grid-column: 1;
+  }
+}
 
 #bulletin-board li > details {
   list-style: none;

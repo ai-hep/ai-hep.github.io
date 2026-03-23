@@ -39,13 +39,14 @@ order: 5
   margin-top: 0.3rem;
   border-radius: 4px;
   font-weight: 600;
-  font-size: 0.85rem;
+  font-size: 1.5rem;
   letter-spacing: 0.5px;
   display: inline-block;
   align-self: start;
   white-space: nowrap;
   width: max-content;
   overflow: visible;
+  text-align: right;
 }
 
 /* dd, global */
@@ -76,6 +77,39 @@ order: 5
 #bulletin-board #others 
 {
   font-size: 1.05rem;
+}
+
+/* mobile env*/ 
+@media (max-width: 768px) {
+  h3 {
+    padding-right: 0;              /* remove reserved space */
+    flex-direction: column;        /* stack */
+    align-items: flex-start;
+  }
+
+  .tags {
+    position: static;              /* 👈 back into flow (inside h3) */
+    display: flex;
+    flex-direction: row;           /* or column if you prefer */
+    gap: 6px;
+    margin-top: 4px;
+
+    align-self: flex-end;          /* 👈 keep them right-aligned */
+  }
+  
+  #bulletin-board dl {
+    grid-template-columns: 1fr;   /* single column */
+  }
+
+  #bulletin-board dt {
+    grid-column: 1;              /* ensure full width */
+    text-align: left;            /* optional: better for mobile */
+    width: auto;                 /* override your fixed width */
+  }
+
+  #bulletin-board dd {
+    grid-column: 1;
+  }
 }
 </style>
 
