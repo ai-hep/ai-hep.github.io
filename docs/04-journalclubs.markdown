@@ -134,8 +134,18 @@ order: 5
 Past Sessions - 2026
 --------------------
 
-2025-03-23
+2025-03-30
 : ### TBA
+
+<!-- -------------------------------------------- -->
+
+2025-03-23
+: ### Agent models for collider physics
+  * [MadAgents](https://arxiv.org/abs/2601.21015) (arXiv:2601.21015)
+  * [An End-to-end Architecture for Collider Physics and Beyond](https://arxiv.org/abs/2603.14553) (arXiv:2603.14553)
+  * [CoLLM: AI engineering toolbox for end-to-end deep learning in collider analyses](https://arxiv.org/abs/2602.06496) (arXiv:2602.06496)
+  * [LangGraph](https://www.langchain.com/langgraph)
+  * [Agent Skills](https://claude.com/blog/equipping-agents-for-the-real-world-with-agent-skills)
 
 <!-- -------------------------------------------- -->
 
