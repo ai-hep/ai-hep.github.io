@@ -151,16 +151,6 @@ Our online joint seminars are at the intersection of AI and fundamental physics 
 Upcoming Seminars
 -----------------
 
-May 20 (Wed)
-: ### TBA
-  <span class="tags">
-    <span class="tag">#CTPU-PTC seminar</span>
-  </span>
-
-  * Speaker: Marie Hein (RWTH Aachen)
-  * Time: 3:00 PM JST/KST, 2:00 PM Beijing
-
-<!-- ----------------------------------- -->
 
 
 Mar. 24 (Tue)
@@ -175,6 +165,28 @@ Mar. 24 (Tue)
       <summary data-open="Abstract" data-close="Show Abstract"></summary>
       The rapid growth of both astrophysical data and simulation capabilities is creating a new opportunity. Instead of being tied to summary statistics (like correlation functions and power spectra), we can begin to connect simulations and observations directly at the field level. In this talk, I will present a framework for field-level, multi-probe inference built around differentiable simulations, where gradients can be propagated through the forward model itself. I will focus on diffhydro, a differentiable hydrodynamics framework written in JAX that combines modern multiphysics solvers with end-to-end automatic differentiation. Starting from simple dark-matter models, we can incrementally add more realistic physics, including turbulence, radiative heating and cooling, and self-gravity, while retaining the ability to optimize directly through the simulation. This makes it possible to connect observations to initial conditions (i.e. latent fields), physical parameters, and unresolved processes in a unified way. I will show how these ideas open the door to reconstructing the history of the Universe and how the same framework can be a platform for embedded machine learning models for additional acceleration and new physics discovery.
     </details>
+    
+<!-- ----------------------------------- -->
+
+Apr. 1 (Wed)
+: ### TBA
+  <span class="tags">
+    <span class="tag">#CTPU-PTC seminar</span>
+  </span>
+
+  * Speaker: Jaeok Yi (KAIST)
+  * Time: 3:00 PM JST/KST, 2:00 PM Beijing
+
+<!-- ----------------------------------- -->
+
+May 20 (Wed)
+: ### TBA
+  <span class="tags">
+    <span class="tag">#CTPU-PTC seminar</span>
+  </span>
+
+  * Speaker: Marie Hein (RWTH Aachen)
+  * Time: 3:00 PM JST/KST, 2:00 PM Beijing
 
 <!-- ----------------------------------- -->
 
