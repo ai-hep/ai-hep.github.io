@@ -146,6 +146,9 @@ Past Sessions - 2026
   * [CoLLM: AI engineering toolbox for end-to-end deep learning in collider analyses](https://arxiv.org/abs/2602.06496) (arXiv:2602.06496)
   * [LangGraph](https://www.langchain.com/langgraph)
   * [Agent Skills](https://claude.com/blog/equipping-agents-for-the-real-world-with-agent-skills)
+  
+: ### LLM experience with galaxy studies
+  * [Gala](https://gala.adrian.pw/)
 
 <!-- -------------------------------------------- -->
 
