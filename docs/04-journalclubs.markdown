@@ -15,6 +15,21 @@ order: 5
 -->
 
 <style>
+h1 {
+  width: 100vw;
+  margin-left: calc(50% - 50vw);
+  margin-right: calc(50% - 50vw);
+
+  background: linear-gradient(135deg, var(--yin-dark) 0%, #3b4a7a 100%);
+
+  text-align: center;
+  padding: 3rem 1rem;
+  font-size: 3rem !important;
+  font-weight: 700 !important;
+
+  color: white;
+}
+
 #bulletin-board dl{
   display: grid;
   grid-gap: 4px 16px;
