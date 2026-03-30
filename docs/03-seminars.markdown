@@ -184,13 +184,17 @@ Upcoming Seminars
 
 
 Apr. 1 (Wed)
-: ### TBA
+: ### Neural Networks from the Perspective of Physics
   <span class="tags">
     <span class="tag">#CTPU-PTC seminar</span>
   </span>
 
   * Speaker: Jaeok Yi (KAIST)
   * Time: 3:00 PM JST/KST, 2:00 PM Beijing
+  * <details>
+      <summary data-open="Abstract" data-close="Show Abstract"></summary>
+      Despite the remarkable empirical success of deep learning, a comprehensive theoretical understanding of why and how neural networks learn remains a mystery. In this talk, we discuss physics-inspired approaches to understanding neural networks. We present synaptic field theory, a framework that reformulates the gradient descent dynamics of synaptic weights as classical field dynamics in de Sitter spacetime, constructing an action whose metric naturally matches that of a universe with a positive cosmological constant. This framework faces a challenge related to the non-locality of the cost function. To address this issue, we explore the idea of promoting neurons to dynamical degrees of freedom. Leveraging properties of stochastic gradient descent, the Lagrangian can be decomposed into a data-independent bulk part and a data-dependent boundary part. This decomposition is expected to separate the architectural structure from the stochastic properties of neural networks, enabling independent analysis of each. Through this line of research, we aim to provide physicists with a familiar language to investigate the theoretical foundations of machine learning.
+    </details>
 
 <!-- ----------------------------------- -->
 
