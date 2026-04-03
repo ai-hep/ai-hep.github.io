@@ -23,3 +23,132 @@
   color: rgba(255,255,255,0.9);
   letter-spacing: -1px;
 }
+
+/* seminar page */
+h3 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding-right: 150px; 
+  font-size: 1.2em;
+}
+
+.tags {
+  position: absolute;
+  top: 0.8rem;
+  right: 0.9rem;
+
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  align-items: flex-end;
+}
+.tag {
+  font-size: 1.1em;
+  font-weight: 700;
+  color: black;
+  background: #eef2ff;
+  padding: 2px 8px;
+  border-radius: 6px;
+  white-space: nowrap;
+  margin-top: 0.2rem;
+}
+@media (max-width: 768px) {
+  .hero-section-fullscreen {
+    background: linear-gradient(135deg, rgba(30, 42, 58, 0.85), rgba(212, 165, 116, 0.3)), url('{{ "/images/hero_simple.png" | relative_url }}') 80% center/100% no-repeat;
+  }
+}
+#bulletin-board dl{
+  position: relative;
+  display: grid;
+  grid-gap: 4px 16px;
+  grid-template-columns: minmax(20ch, max-content) 1fr;
+  border: 1px solid var(--border-color);
+  border-radius: 12px;
+  padding: 0.2rem 0.5rem 0.5rem;
+  margin-bottom: 0.5em;
+  transition: border-color 0.25s ease, transform 0.25s ease, box-shadow 0.25s ease;
+}
+#bulletin-board dl:hover{
+  border-color: var(--accent-color);
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.08);
+  transform: translateY(-2px);
+}
+#bulletin-board dt
+{
+  background: var(--accent-color);
+  color: var(--yang-light);
+  padding: 0.2rem 0.5rem;
+  margin-top: 0.3rem;
+  border-radius: 4px;
+  font-weight: 600;
+  font-size: 1.5rem;
+  letter-spacing: 0.5px;
+  display: inline-block;
+  align-self: start;
+  white-space: nowrap;
+  width: minmax(20ch, max-content);
+  overflow: visible;
+  text-align: right;
+}
+#bulletin-board dd
+{
+  background: white;
+  color: var(--text-primary) !important;
+  padding: 0.2rem 0.5rem;
+  border-radius: 8px;
+  font-weight: 600;
+  font-size: 0.85rem;
+  letter-spacing: 0.5px;
+  margin-top: 0.3rem;
+  display: inline-block;
+  grid-column-start: 2;
+}
+
+/* mobile env*/ 
+@media (max-width: 768px) {
+  h3 {
+    padding-right: 0;              /* remove reserved space */
+    flex-direction: column;        /* stack */
+    align-items: flex-start;
+  }
+
+  .tags {
+    position: static;              /* 👈 back into flow (inside h3) */
+    display: flex;
+    flex-direction: row;           /* or column if you prefer */
+    gap: 6px;
+    margin-top: 4px;
+
+    align-self: flex-end;          /* 👈 keep them right-aligned */
+  }
+  
+  #bulletin-board dl {
+    grid-template-columns: 1fr;   /* single column */
+  }
+
+  #bulletin-board dt {
+    grid-column: 1;              /* ensure full width */
+    text-align: left;            /* optional: better for mobile */
+    width: auto;                 /* override your fixed width */
+  }
+
+  #bulletin-board dd {
+    grid-column: 1;
+  }
+}
+
+#bulletin-board li > details {
+  list-style: none;
+}
+#bulletin-board li:has(> details) {
+  list-style: none;
+}
+
+#bulletin-board details[open] summary::after {
+  content: attr(data-open);
+}
+
+#bulletin-board details:not([open]) summary::after {
+  content: attr(data-close);
+}
