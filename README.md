@@ -1,4 +1,4 @@
-<center>
+<div align="center">
 <img src="docs/images/logo_simple.png" alt="AI+HEP" height="90">
 
 # AI + HEP (East Asia) Website
@@ -6,7 +6,7 @@
 **Community hub for advancing Artificial Intelligence in High Energy Physics across East Asia.**
 
 Workshops • Seminars • Journal Clubs • Curriculum • Collaboration
-</center>
+</div>
 ---
 
 ## Overview
