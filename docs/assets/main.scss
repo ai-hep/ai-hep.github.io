@@ -163,35 +163,7 @@ a:hover {
 .highlight-box.compact { padding: 1.15rem 1.2rem 1.3rem; }
 .highlight-box.compact p { margin-top: .35rem; }
 
-// Workshop section
-.workshop-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(450px, 1fr));
-  gap: var(--spacing-lg);
-  margin: var(--spacing-lg) 0;
-}
-
-@media (max-width: 600px) {
-  .workshop-grid {
-    grid-template-columns: 1fr;
-  }
-}
-
-.workshop-card {
-  max-width: 100%;
-}
-
-.workshop-card .meta-list {
-  list-style: none;
-  margin: 0 0 0.75rem 0;
-  padding: 0;
-  display: flex;
-  flex-direction: column;
-  gap: 0.35rem;
-  font-size: 0.78rem;
-  line-height: 1.4;
-}
-.workshop-card .meta-list li strong { color: var(--yin-dark); font-weight: 600; }
+/* hero setting */
 
 .hero-section {
   background: linear-gradient(135deg, var(--yin-dark) 0%, #3b4a7a 100%);
@@ -227,7 +199,7 @@ a:hover {
   margin-bottom: var(--spacing-xl);
 }
 
-.section-title {
+.section-title, h2{
   font-size: 2rem !important;
   font-weight: 600 !important;
   margin-bottom: var(--spacing-lg) !important;
@@ -1500,25 +1472,6 @@ a:focus {
   text-align: center;
   margin-top: 2rem;
 }
-
-/* Workshops media */
-.workshop-image {
-  margin-bottom: 1.5rem;
-}
-
-.workshop-photo {
-  width: 100%;
-  height: 250px;
-  object-fit: cover;
-  object-position: center;
-  border-radius: 8px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-}
-
-.workshop-photo--contain { object-fit: contain; }
-.workshop-photo--pos-50 { object-position: center 50%; }
-.workshop-photo--pos-40 { object-position: center 40%; }
-.workshop-photo--scale-90 { transform: scale(0.9); }
 
 /* Seminars participate grid */
 .participate-grid {

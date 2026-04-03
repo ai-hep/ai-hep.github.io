@@ -1,0 +1,66 @@
+/* Workshop section */
+.workshop-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(450px, 1fr));
+  gap: var(--spacing-lg);
+  margin: var(--spacing-lg) 0;
+}
+
+@media (max-width: 600px) {
+  .workshop-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* workshop card setting */
+
+.workshop-card {
+  display: flex;
+  flex-direction: column;
+  /* max-width: 100%; */
+}
+
+.workshop-card p:has(img) {
+  order: 1;
+}
+.workshop-card h3 {
+  color: var(--accent-color);
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin-bottom: var(--spacing-sm);
+  
+  order: 2;
+}
+.workshop-card ul {
+  list-style: none;
+  margin: 0 0 0.75rem 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+  font-size: 0.78rem;
+  line-height: 1.4;
+  
+  order: 3;
+}
+.workshop-card > * {
+  order: 99;
+}
+.workshop-card li strong { color: var(--yin-dark); font-weight: 600; }
+
+/* workshop card setting -- image */
+.workshop-card img {
+  margin-bottom: 1.0rem;
+  
+  width: 100%;
+  height: 250px;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);  
+}
+
+.workshop-photo--contain { object-fit: contain; }
+.workshop-photo--pos-50 { object-position: center 50%; }
+.workshop-photo--pos-40 { object-position: center 40%; }
+.workshop-photo--scale-90 { transform: scale(0.9); }
