@@ -25,7 +25,7 @@
 }
 
 /* seminar page */
-h3 {
+#bulletin-board h3 {
   display: flex;
   align-items: flex-start;
   justify-content: space-between;
@@ -107,7 +107,7 @@ h3 {
 
 /* mobile env*/ 
 @media (max-width: 768px) {
-  h3 {
+  #bulletin-board h3 {
     padding-right: 0;              /* remove reserved space */
     flex-direction: column;        /* stack */
     align-items: flex-start;
