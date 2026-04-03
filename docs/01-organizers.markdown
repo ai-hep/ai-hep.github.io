@@ -179,8 +179,8 @@ document.addEventListener('DOMContentLoaded', function() {
         <div class="person-body">
           <h3 class="person-name">Lingxiao Wang（王凌霄）</h3>
           <div class="person-role-block">
-            <span class="person-role">Research Scientist, Assistant Professor</span>
-            <span class="person-affiliation"> RIKEN Center for Interdisciplinary Theoretical and Mathematical Sciences(iTHEMS), Institute for Physics of Intelligence, University of Tokyo</span>
+            <span class="person-role">Research Scientist to Deputy Director of AI as Science Team</span>
+            <span class="person-affiliation"> RIKEN Center for Interdisciplinary Theoretical and Mathematical Sciences(iTHEMS) / Institute for Physics of Intelligence, University of Tokyo</span>
           </div>
           <ul class="person-tags">
             <li class="person-tag">Machine Learning in Physics</li>
