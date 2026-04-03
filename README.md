@@ -10,7 +10,7 @@ Workshops • Seminars • Journal Clubs • Curriculum • Collaboration
 
 ## Overview
 
-This repository contains the source for the [AI+HEP East Asia community website](https://ai-hep.github.io), built with **Jekyll** (GitHub Pages compatible) and a customized **Minima** theme.
+This repository contains the source for the [AI+HEP in East Asia community website](https://ai-hep.github.io), built with **Jekyll** (GitHub Pages compatible) and a customized **Minima** theme.
 
 ## Repository Structure
 
