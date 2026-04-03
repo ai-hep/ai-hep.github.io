@@ -176,7 +176,7 @@ AI + High Energy Physics research presentations and discussions
 
 <div id="bulletin-board" markdown=1>
 
-Our online joint seminars are at the intersection of AI and fundamental physics open to all participants. We are open to all interested participants across East Asia and beyond. For zoom links, please check out our slack channel or contact organizers.
+Our online joint seminars are at the intersection of AI and fundamental physics open to all participants. We are open to all interested participants across East Asia and beyond. For zoom links, please check out our Slack channel or contact organizers.
 
 Upcoming Seminars
 -----------------
