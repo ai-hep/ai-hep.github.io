@@ -183,6 +183,21 @@ Upcoming Seminars
 
 
 
+May 20 (Wed)
+: ### TBA
+  <span class="tags">
+    <span class="tag">#CTPU-PTC seminar</span>
+  </span>
+
+  * Speaker: Marie Hein (RWTH Aachen)
+  * Time: 3:00 PM JST/KST, 2:00 PM Beijing
+
+<!-- ----------------------------------- -->
+
+Past Seminars 2026
+-------------
+
+
 Apr. 1 (Wed)
 : ### Neural Networks from the Perspective of Physics
   <span class="tags">
@@ -198,21 +213,6 @@ Apr. 1 (Wed)
     </details>
 
 <!-- ----------------------------------- -->
-
-May 20 (Wed)
-: ### TBA
-  <span class="tags">
-    <span class="tag">#CTPU-PTC seminar</span>
-  </span>
-
-  * Speaker: Marie Hein (RWTH Aachen)
-  * Time: 3:00 PM JST/KST, 2:00 PM Beijing
-
-<!-- ----------------------------------- -->
-
-Past Seminars 2026
--------------
-
 
 Mar. 24 (Tue)
 : ### Connecting Simulations and Observations with Differentiable Simulations and Field Level Inference
@@ -260,6 +260,58 @@ Jan. 29 (Thu)
       Generative machine learning has become a powerful tool for unbinned, high-dimensional unfolding at the LHC.
 This talk highlights recent progress on key open challenges: scaling to hundreds of dimensions, prior-independent parameter estimation, and the path toward fully analysis-ready unfolding.
     </details>
+
+<!-- ----------------------------------- -->
+
+Jan. 29 (Thu)
+: ### Storage Capacity of Perceptron with Variable Selection
+  <span class="tags">
+    <span class="tag">#DEEP-IN seminar</span>
+    <span class="tag">#iPI seminar</span>
+  </span>
+
+  * Speaker: Yingying Xu (University of Helsinki)
+  * Time: 4:00 PM JST/KST, 3:00 PM Beijing
+  * [link to the seminar page](https://ithems.riken.jp/en/events/deep-in-ipi-joint-meeting)
+  * <details>
+      <summary data-open="Abstract" data-close="Show Abstract"></summary>
+      A central challenge in machine learning is to distinguish genuine structure from chance correlations in high-dimensional data. In this work, we address this issue for the perceptron, a foundational model of neural computation. Specifically, we investigate the relationship between the pattern load α and the variable selection ratio ρ for which a simple perceptron can perfectly classify P = αN random patterns by optimally selecting M = ρN variables out of N variables. While the Cover–Gardner theory establishes that a random subset of ρN dimensions can separate αN random patterns if and only if α < 2ρ, we demonstrate that optimal variable selection can surpass this bound by developing a method, based on the replica method from statistical mechanics, for enumerating the combinations of variables that enable perfect pattern classification. This not only provides a quantitative criterion for distinguishing true structure in the data from spurious regularities, but also yields the storage capacity of associative memory models with sparse asymmetric couplings.
+    </details>
+
+<!-- ----------------------------------- -->
+
+Jan. 29 (Thu)
+: ### Physics of Machine Learning
+  <span class="tags">
+    <span class="tag">#DEEP-IN seminar</span>
+    <span class="tag">#iPI seminar</span>
+  </span>
+
+  * Speaker: Gert Aarts (Swansea University)
+  * Time: 2:30 PM JST/KST, 1:30 PM Beijing
+  * [link to the seminar page](https://ithems.riken.jp/en/events/deep-in-ipi-joint-meeting)
+  * <details>
+      <summary data-open="Abstract" data-close="Show Abstract"></summary>
+      In recent years machine learning (ML) has started to make impact in lattice field theory (LFT), e.g. for the generation of ensembles of configurations. In this talk I will explore potential impact in the opposite direction, i.e. using theoretical physics to understand ML approaches. I will relate stochastic gradient descent to random matrix theory and then make the connection between neural networks and disordered systems, leading to a neural network phase diagram in the plane spanned by hyper parameters. I will conclude with the possible impact of our findings for practical ML applications.
+    </details>
+
+<!-- ----------------------------------- -->
+
+Jan. 28 (Wed)
+: ### Understanding Galactic Dark Matter with Generative Models
+  <span class="tags">
+    <span class="tag">#DEEP-IN seminar</span>
+    <span class="tag">#iPI seminar</span>
+  </span>
+
+  * Speaker: Sung Hak Lim (IBS)
+  * Time: 2:30 PM JST/KST, 1:30 PM Beijing
+  * [link to the seminar page](https://ithems.riken.jp/en/events/deep-in-ipi-joint-meeting)
+  * <details>
+      <summary data-open="Abstract" data-close="Show Abstract"></summary>
+      Mapping the Milky Way’s dark matter requires moving beyond traditional, rigid dynamical models. In this talk, generative models — specifically Normalizing Flows — are used to learn the stellar phase space distribution directly from Gaia data. This approach enables a flexible, model-independent reconstruction of the Galactic gravitational potential and local dark matter density. These data-driven techniques provide a promising avenue to handle complex observational biases and what they reveal about the dark sector’s influence on our Galaxy.
+    </details>
+
 
 <!-- ----------------------------------- -->
 
