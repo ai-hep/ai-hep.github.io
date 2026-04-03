@@ -5,143 +5,16 @@ permalink: /journalclubs/
 order: 5
 ---
 
-<!--
-<div class="hero-section" style="padding: 2rem 0; margin-bottom: 2rem;">
-  <div class="wrapper">
-    <h1 class="hero-title" style="font-size: 2.5rem;">Journal Clubs</h1>
-    <p class="hero-subtitle">Exploring the Latest in AI + High Energy Physics</p>
-  </div>
-</div>
--->
+<div class="schedule-box" markdown=1>
 
-<style>
-h1 {
-  width: 100vw;
-  margin-left: calc(50% - 50vw);
-  margin-right: calc(50% - 50vw);
-
-  background: linear-gradient(135deg, var(--yin-dark) 0%, #3b4a7a 100%);
-
-  text-align: center;
-  padding: 3rem 1rem;
-  font-size: 3rem !important;
-  font-weight: 700 !important;
-
-  color: white;
-}
-
-#bulletin-board dl{
-  display: grid;
-  grid-gap: 4px 16px;
-  grid-template-columns: minmax(15ch, max-content) 1fr;
-  border: 1px solid var(--border-color);
-  border-radius: 12px;
-  padding: 0.2rem 0.5rem 0.5rem;
-  margin-bottom: 0.5em;
-  transition: border-color 0.25s ease, transform 0.25s ease, box-shadow 0.25s ease;
-}
-#bulletin-board dl:hover{
-  border-color: var(--accent-color);
-  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.08);
-  transform: translateY(-2px);
-}
-
-#bulletin-board dt
-{
-  background: var(--accent-color);
-  color: var(--yang-light);
-  padding: 0.2rem 0.5rem;
-  margin-top: 0.3rem;
-  border-radius: 4px;
-  font-weight: 600;
-  font-size: 1.5rem;
-  letter-spacing: 0.5px;
-  display: inline-block;
-  align-self: start;
-  white-space: nowrap;
-  width: max-content;
-  overflow: visible;
-  text-align: right;
-}
-
-/* dd, global */
-#bulletin-board dd
-{
-  background: white;
-  color: var(--text-primary) !important;
-  padding: 0.2rem 0.5rem;
-  border-radius: 8px;
-  font-weight: 600;
-  font-size: 0.85rem;
-  letter-spacing: 0.5px;
-  margin-top: 0.3rem;
-  display: inline-block;
-  grid-column-start: 2;
-}
-/* dd, second appearance */
-#bulletin-board dd+dd  
-{
-  margin-top: 0.3rem;
-}
-
-#bulletin-board h3 
-{
-  font-size: 1.15rem;
-  color: var(--text-primary) !important;
-}
-#bulletin-board #others 
-{
-  font-size: 1.05rem;
-}
-
-/* mobile env*/ 
-@media (max-width: 768px) {
-  h3 {
-    padding-right: 0;              /* remove reserved space */
-    flex-direction: column;        /* stack */
-    align-items: flex-start;
-  }
-
-  .tags {
-    position: static;              /* 👈 back into flow (inside h3) */
-    display: flex;
-    flex-direction: row;           /* or column if you prefer */
-    gap: 6px;
-    margin-top: 4px;
-
-    align-self: flex-end;          /* 👈 keep them right-aligned */
-  }
-  
-  #bulletin-board dl {
-    grid-template-columns: 1fr;   /* single column */
-  }
-
-  #bulletin-board dt {
-    grid-column: 1;              /* ensure full width */
-    text-align: left;            /* optional: better for mobile */
-    width: auto;                 /* override your fixed width */
-  }
-
-  #bulletin-board dd {
-    grid-column: 1;
-  }
-}
-</style>
-
-<div class="wrapper">
-    <div class="content-section">
-        <div class="highlight-box">
-            <h3>📅 Meeting Details</h3>
-            <ul>
-                <li><strong>Frequency:</strong> Bi-weekly sessions</li>
-                <li><strong>Format:</strong> Virtual </li>
-                <li><strong>Duration:</strong> 60 minutes with Q&A</li>
-                <li><strong>Language:</strong> English</li>
-                <li><strong>Time:</strong> Monday 3 PM Beijing, 4 PM JST/KST</li>
-                <li><strong>Access link:</strong> Please check out journal club channel on our slack.</li>
-            </ul>
-        </div>
-    </div>
+### 📅 Meeting Details
+ * **Frequency:** Bi-weekly sessions
+ * **Format:** Virtual
+ * **Duration:** 60 minutes with Q&A
+ * **Language:** English
+ * **Time:** Monday 3 PM Beijing, 4 PM JST/KST
+ * **Access Link:** Please check out journal club channel on our Slack.
+ 
 </div>
 
 <div id="bulletin-board" markdown=1>
