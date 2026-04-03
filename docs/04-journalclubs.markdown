@@ -149,12 +149,12 @@ h1 {
 Past Sessions - 2026
 --------------------
 
-2025-03-30
-: ### TBA
+2026-03-30
+: ### Causal chats
 
 <!-- -------------------------------------------- -->
 
-2025-03-23
+2026-03-23
 : ### Agent models for collider physics
   * [MadAgents](https://arxiv.org/abs/2601.21015) (arXiv:2601.21015)
   * [An End-to-end Architecture for Collider Physics and Beyond](https://arxiv.org/abs/2603.14553) (arXiv:2603.14553)
@@ -167,7 +167,7 @@ Past Sessions - 2026
 
 <!-- -------------------------------------------- -->
 
-2025-03-16
+2026-03-16
 : ### Discussion on LLM and Simulation-based Inference in Astrophysics
   * [A simulation-based inference of the Milky Way merger history](https://arxiv.org/abs/2603.12317) (arXiv:2603.12317)
   * [IllustrisTNG](https://www.tng-project.org/)
