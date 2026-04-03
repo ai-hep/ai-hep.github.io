@@ -18,6 +18,14 @@
   display: flex;
   flex-direction: column;
   /* max-width: 100%; */
+  
+  background: var(--gray-100);
+  border: 1px solid var(--border-color);
+  padding: 1.5rem 1.5rem 1.75rem;
+  border-radius: 18px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.08), 0 6px 16px -4px rgba(0,0,0,0.15);
+  position: relative;
+  overflow: hidden;
 }
 
 .workshop-card p:has(img) {

@@ -43,9 +43,9 @@ Workshops
 ---------
 <div class="workshop-grid" markdown=1>
 
-<div class="simple-card workshop-card" markdown=1>
+<div class="workshop-card" markdown=1>
 ### AI+HEP Workshop 2026
-![AI+HEP Workshop 2026 Group Photo]({{ '/images/aihep2026.jpg' | relative_url }}){:.workshop-photo .workshop-photo--pos-50}
+![AI+HEP Workshop 2026 Group Photo]({{ '/images/aihep2026.jpg' | relative_url }}){:.workshop-photo--pos-50}
 - **Dates:** Jan 19–23, 2026
 - **Location:** KEK, Tsukuba, Japan
 
@@ -54,9 +54,9 @@ Workshops
 
 <!-- ------------------------------------------------------------------------------- -->
 
-<div class="simple-card workshop-card" markdown=1>
+<div class="workshop-card" markdown=1>
 ### AI+HEP Workshop 2025
-![AI+HEP Workshop 2025 Group Photo]({{ '/images/aihep2025.jpg' | relative_url }}){:.workshop-photo .workshop-photo--pos-50}
+![AI+HEP Workshop 2025 Group Photo]({{ '/images/aihep2025.jpg' | relative_url }}){:.workshop-photo--pos-50}
 - **Dates:** Feb 23–28, 2025
 - **Location:** IBS (Institute for Basic Science), Daejeon, Korea
 
