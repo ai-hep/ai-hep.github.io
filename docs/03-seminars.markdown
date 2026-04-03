@@ -1,35 +1,13 @@
 ---
 layout: page
 title: Seminars
+subtitle: AI + High Energy Physics research presentations and discussions
 permalink: /seminars/
 order: 4
 ---
 
 
 <style>
-h1 {
-  width: 100vw;
-  margin-left: calc(50% - 50vw);
-  margin-right: calc(50% - 50vw);
-
-  background: linear-gradient(135deg, var(--yin-dark) 0%, #3b4a7a 100%);
-
-  text-align: center;
-  padding: 3rem 1rem;
-  font-size: 3rem !important;
-  font-weight: 700 !important;
-
-  color: white;
-}
-h1::after {
-  content: "AI + High Energy Physics research presentations and discussions";
-  display: block;
-  margin-top: 1.0rem;
-  font-size: 1.2rem;
-  font-weight: 400;
-  color: rgba(255,255,255,0.9);
-}
-
 h3 {
   display: flex;
   align-items: flex-start;

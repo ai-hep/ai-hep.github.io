@@ -18,20 +18,11 @@
 }
 .post-header .subtitle {
   margin-top: 1.0rem;
-  font-size: 1.2rem; !important
-  font-weight: 400;
-  color: rgba(255,255,255,0.9);
-}
-/*
-.post-header h1::after {
-  content: "Annual in‑person workshop events across East Asia";
-  display: block;
-  margin-top: 1.0rem;
   font-size: 1.2rem;
   font-weight: 400;
   color: rgba(255,255,255,0.9);
+  letter-spacing: -1px;
 }
-*/
 
 /* Workshop section */
 .workshop-grid {
