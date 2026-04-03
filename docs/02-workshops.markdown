@@ -53,7 +53,7 @@ order: 3
       <!-- Upcoming Workshop -->
       <div class="simple-card workshop-card">
         <div class="workshop-image">
-          <img src="{{ '/images/aihep2026.jpg' | relative_url }}" alt="AI+HEP Workshop 2026 Group Photo" class="workshop-photo workshop-photo--contain workshop-photo--pos-50 workshop-photo--scale-90">
+          <img src="{{ '/images/aihep2026.jpg' | relative_url }}" alt="AI+HEP Workshop 2026 Group Photo" class="workshop-photo workshop-photo--pos-50">
         </div>    <header class="card-head">
           <h3 class="card-title">AI+HEP Workshop 2026</h3>
         </header>
