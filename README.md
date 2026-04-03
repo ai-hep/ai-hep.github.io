@@ -7,7 +7,6 @@
 
 Workshops • Seminars • Journal Clubs • Curriculum • Collaboration
 </div>
----
 
 ## Overview
 
