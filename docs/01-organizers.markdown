@@ -177,7 +177,7 @@ document.addEventListener('DOMContentLoaded', function() {
           <img src="{{ '/images/lingxiao.jpg' | relative_url }}" alt="Photo of lingxiao" loading="lazy" class="person-photo--contain" />
         </div>
         <div class="person-body">
-          <h3 class="person-name">Lingxiao Wang（王凌霄）</h3>
+          <h3 class="person-name">Lingxiao Wang</h3>
           <div class="person-role-block">
             <span class="person-role">Deputy Director of AI as Science Team</span>
             <span class="person-affiliation"> RIKEN Center for Interdisciplinary Theoretical and Mathematical Sciences(iTHEMS) / Institute for Physics of Intelligence, University of Tokyo</span>
@@ -189,7 +189,7 @@ document.addEventListener('DOMContentLoaded', function() {
             <li class="person-tag">AI for Science</li>
           </ul>
           <div class="person-bio-wrapper" data-bio>
-            <p class="person-bio">Lingxiao Wang is a Research Scientist at RIKEN-iTHEMS (Wako, Japan), and concurrently holds an Assistant Professor at the Institute for Physics of Intelligence(iPI), UTokyo. Before his current positions, he completed his Ph.D. in Physics at Tsinghua University (China, 2015-2020) and spent time as a visiting Ph.D. student at the University of Tokyo (Japan, 2018-2019). During his post-doctoral research he worked at the Frankfurt Institute for Advanced Studies (FIAS) (Germany, 2020-2023). His research lies at the intersection of QCD physics, lattice field theory and deep learning. He focuses on using deep neural networks and generative AI to explore QCD matter, solve inverse problems in physics, and push the frontier of “AI for Science”. He is especially interested in bridging physics insights (symmetries, continuity, field theory) with modern machine-learning architectures, aiming to empower scientific discovery.</p>
+            <p class="person-bio">Lingxiao Wang (王凌霄) is a Research Scientist at RIKEN-iTHEMS (Wako, Japan), and concurrently holds an Assistant Professor at the Institute for Physics of Intelligence(iPI), UTokyo. Before his current positions, he completed his Ph.D. in Physics at Tsinghua University (China, 2015-2020) and spent time as a visiting Ph.D. student at the University of Tokyo (Japan, 2018-2019). During his post-doctoral research he worked at the Frankfurt Institute for Advanced Studies (FIAS) (Germany, 2020-2023). His research lies at the intersection of QCD physics, lattice field theory and deep learning. He focuses on using deep neural networks and generative AI to explore QCD matter, solve inverse problems in physics, and push the frontier of “AI for Science”. He is especially interested in bridging physics insights (symmetries, continuity, field theory) with modern machine-learning architectures, aiming to empower scientific discovery.</p>
             <button class="bio-toggle" data-toggle>Read more</button>
           </div>
           <p class="person-contact"><strong>Email:</strong> <a href="mailto:lwang@fias.uni-frankfurt.de">lwang@fias.uni-frankfurt.de</a></p>
