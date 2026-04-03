@@ -229,7 +229,7 @@ document.addEventListener('DOMContentLoaded', function() {
       <!-- Organizer: Ahmad -->
       <div class="person-card">
         <div class="person-media">
-          <img src="{{ '/images/hammad.jpg' | relative_url }}" alt="Photo of Vinicius Mikuni" loading="lazy" class="person-photo--contain" />
+          <img src="{{ '/images/hammad.jpg' | relative_url }}" alt="Photo of Ahmed Hammad" loading="lazy" class="person-photo--contain" />
         </div>
         <div class="person-body">
           <h3 class="person-name">Ahmed Hammad</h3>
@@ -292,7 +292,7 @@ document.addEventListener('DOMContentLoaded', function() {
       <div class="advisory-card">
         <h3 class="advisory-name">Yanqing Ma </h3>
         <p class="advisory-position">Professor</p>
-        <p class="advisory-affiliation">Peking University, Japan</p>
+        <p class="advisory-affiliation">Peking University, China</p>
         <a href="https://faculty.pku.edu.cn/yqma/en/index.htm" class="advisory-link" target="_blank" rel="noopener">Personal Website</a>
       </div>
 
@@ -377,7 +377,7 @@ document.addEventListener('DOMContentLoaded', function() {
       <h3> Join Our Community</h3>
       <p>Interested in contributing to our organizing efforts or participating in our activities? We welcome new members and collaborators who want to advance AI+HEP research and education in East Asia.</p>
       <div class="cta-center">
-        <a href="https://groups.google.com/g/hep-aie" class="btn">Contact Us</a>
+        <a href="https://groups.google.com/g/hep-aiea" class="btn">Contact Us</a>
         <a href="/workshops/" class="btn btn-outline">View events</a>
       </div>
     </div>
