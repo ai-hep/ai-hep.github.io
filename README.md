@@ -129,8 +129,9 @@ By submitting a Pull Request you agree your contribution may be incorporated and
 For questions or broader reuse requests, contact the [organizers](https://ai-hep.github.io/organizers/) or the webmasters.
 
 ## Webmasters
-
-- **Sung Hak Lim** — [sunghak.lim@ibs.re.kr](mailto:sunghak.lim@ibs.re.kr)
+ 
+- **Tianji Cai** — [tianjiresearch@gmail.com](mailto:tianjiresearch@gmail.com)
 - **Shivasankar K.A** — [a-shiva@particle.sci.hokudai.ac.jp](mailto:a-shiva@particle.sci.hokudai.ac.jp)
+- **Sung Hak Lim** — [sunghak.lim@ibs.re.kr](mailto:sunghak.lim@ibs.re.kr)
 
 You can also reach us via the AI+HEP Slack workspace.
