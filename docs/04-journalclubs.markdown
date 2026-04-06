@@ -23,7 +23,11 @@ Past Sessions - 2026
 --------------------
 
 2026-04-06
-: ### TBA
+: ### Field Level Inferences in Cosmology
+  * **focused**{:.focus-label} [Field-Level Inference of Primordial Non-Gaussianity with the Quijote Simulation Suite](https://arxiv.org/abs/2603.20855) (arXiv:2603.20855)
+  * [Bayesian physical reconstruction of initial conditions from large scale structure surveys](https://arxiv.org/abs/1203.3639) (arXiv:1203.3639)
+  * [Cosmological inference from Bayesian forward modelling of deep galaxy redshift surveys](https://arxiv.org/abs/1808.07496) (arXiv:1808.07496)
+  * [Bayesian field-level inference of primordial non-Gaussianity using next-generation galaxy surveys](https://arxiv.org/abs/2203.08838) (arXiv:2203.08838)
 
 <!-- -------------------------------------------- -->
 
