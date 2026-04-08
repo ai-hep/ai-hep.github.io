@@ -29,6 +29,8 @@ Apr 15 (Wed)
       <summary data-open="Bio" data-close="Show Bio"></summary>
       Xiang Li is a Boya Postdoctoral Fellow at Peking University, working with Prof. Yan-Qing Ma. His research includes AI for science and perturbative quantum field theory. He is particularly interested in how AI can be used to support scientific discovery, with current work spanning AI-driven law discovery, research-oriented AI agent systems, and finding new methods in perturbative QFT. He is actively involved in the development of Aether, an open-source research agent system designed to support scientists in real research workflows. His broader goal is to explore how AI systems can assist human researchers and accelerate progress on frontiers of science.
     </details>
+    
+<!-- ----------------------------------- -->
 
 May 20 (Wed)
 : ### TBA
