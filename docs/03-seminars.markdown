@@ -29,6 +29,24 @@ Apr. 15 (Wed)
       <summary data-open="Bio" data-close="Show Bio"></summary>
       Xiang Li is a Boya Postdoctoral Fellow at Peking University, working with Prof. Yan-Qing Ma. His research includes AI for science and perturbative quantum field theory. He is particularly interested in how AI can be used to support scientific discovery, with current work spanning AI-driven law discovery, research-oriented AI agent systems, and finding new methods in perturbative QFT. He is actively involved in the development of Aether, an open-source research agent system designed to support scientists in real research workflows. His broader goal is to explore how AI systems can assist human researchers and accelerate progress on frontiers of science.
     </details>
+
+<!-- ----------------------------------- -->
+
+Apr. 16 (Thu)
+: ### Searching For Anomalies with Foundation Models
+  <span class="tags">
+    <span class="tag">#iPI seminar</span>
+    <span class="tag">#DEEP-IN seminar</span>
+  </span>
+
+  * Speaker: Vinicius Mikuni (Nagoya University)
+  * Time: 2:00 PM JST/KST, 1:00 PM Beijing
+  * [link to the seminar page: UTokyo](https://www.ipi.s.u-tokyo.ac.jp/news/742/)
+  * [link to the seminar page: RIKEN](https://ithems.riken.jp/en/events/searching-for-anomalies-with-foundation-models)
+  * <details>
+      <summary data-open="Abstract" data-close="Show Abstract"></summary>
+      Anomaly detection relaxes the assumptions of how new physics should look and extends the reach of what we can discover. However, interpreting the data and estimating backgrounds remains a challenge. In this new work, we investigate anomalous events selected by the OmniLearned Foundation model across different model sizes, performing a full analysis using CMS Open Data. Surprisingly, models of different sizes, trained on the same data with the same loss functions, select entirely different collisions. In particular, the large OmniLearned model (500M parameters) selects events that are not well described by our background model.
+    </details>
     
 <!-- ----------------------------------- -->
 
