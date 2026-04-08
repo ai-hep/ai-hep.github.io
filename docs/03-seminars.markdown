@@ -13,7 +13,7 @@ Our online joint seminars are at the intersection of AI and fundamental physics 
 Upcoming Seminars
 -----------------
 
-Apr 15 (Wed)
+Apr. 15 (Wed)
 : ### Toward AI for Physics: From Physical Law Discovery to Scientific Research Agents
   <span class="tags">
     <span class="tag">#PhysAI-Tongji seminar</span>
