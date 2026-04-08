@@ -13,6 +13,22 @@ Our online joint seminars are at the intersection of AI and fundamental physics 
 Upcoming Seminars
 -----------------
 
+Apr 15 (Wed)
+: ### Toward AI for Physics: From Physical Law Discovery to Scientific Research Agents
+  <span class="tags">
+    <span class="tag">#PhysAI-Tongji seminar</span>
+  </span>
+
+  * Speaker: Xiang Li (Peking University)
+  * Time: 2:00 PM Beijing, 3:00 PM JST/KST
+  * <details>
+      <summary data-open="Abstract" data-close="Show Abstract"></summary>
+      Artificial intelligence in physics should not be viewed merely as a tool for narrow tasks such as formula fitting or benchmark problem solving. More fundamentally, it offers the possibility of enabling AI systems to participate in the formation of physical knowledge and in the actual practice of scientific research. In this talk, I will present our recent efforts toward this broader goal. Using AI-Newton as an example, I will argue that the discovery of universal physical laws requires structured conceptual representations and domain-specific language formulations that go beyond standard symbolic regression. I will then discuss LOCA, which shows how explicit logical frameworks can improve the ability of large language models to perform precise scientific reasoning. Finally, I will introduce Aether, our ongoing effort to develop a more general scientific research agent system equipped with domain expertise, tool-use capabilities, and flexible human-AI interaction. Taken together, these works suggest a promising emerging paradigm for scientific discovery, centered on the integration of knowledge representation, logical reasoning, and research workflows.
+    </details>
+  * <details>
+      <summary data-open="Bio" data-close="Show Bio"></summary>
+      Xiang Li is a Boya Postdoctoral Fellow at Peking University, working with Prof. Yan-Qing Ma. His research includes AI for science and perturbative quantum field theory. He is particularly interested in how AI can be used to support scientific discovery, with current work spanning AI-driven law discovery, research-oriented AI agent systems, and finding new methods in perturbative QFT. He is actively involved in the development of Aether, an open-source research agent system designed to support scientists in real research workflows. His broader goal is to explore how AI systems can assist human researchers and accelerate progress on frontiers of science.
+    </details>
 
 May 20 (Wed)
 : ### TBA
