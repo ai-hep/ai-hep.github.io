@@ -13,6 +13,20 @@ Our online joint seminars are at the intersection of AI and fundamental physics 
 Upcoming Seminars
 -----------------
 
+May 20 (Wed)
+: ### TBA
+  <span class="tags">
+    <span class="tag">#CTPU-PTC seminar</span>
+  </span>
+
+  * Speaker: Marie Hein (RWTH Aachen)
+  * Time: 3:00 PM JST/KST, 2:00 PM Beijing
+
+<!-- ----------------------------------- -->
+
+Past Seminars 2026
+-------------
+
 Apr. 16 (Thu)
 : ### Searching For Anomalies with Foundation Models
   <span class="tags">
@@ -30,20 +44,6 @@ Apr. 16 (Thu)
     </details>
     
 <!-- ----------------------------------- -->
-
-May 20 (Wed)
-: ### TBA
-  <span class="tags">
-    <span class="tag">#CTPU-PTC seminar</span>
-  </span>
-
-  * Speaker: Marie Hein (RWTH Aachen)
-  * Time: 3:00 PM JST/KST, 2:00 PM Beijing
-
-<!-- ----------------------------------- -->
-
-Past Seminars 2026
--------------
 
 Apr. 15 (Wed)
 : ### Toward AI for Physics: From Physical Law Discovery to Scientific Research Agents
