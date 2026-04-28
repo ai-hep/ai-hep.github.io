@@ -22,6 +22,22 @@ order: 5
 Past Sessions - 2026
 --------------------
 
+2026-04-27
+: ### Cosmological Model Inference with CMB and SHAP-based Interpretation
+  * **focused**{:.focus-label} [Explaining Neural Networks on the Sky: Machine Learning Interpretability for Cosmic Microwave Background Maps](https://arxiv.org/abs/2604.05290) (arXiv:2604.05290)
+  * [Neural Networks for cosmological model selection and feature importance using Cosmic Microwave Background data](https://arxiv.org/abs/2410.05209) (arXiv:2410.05209)
+
+: ### Parametrized Classifiers for Model Inference
+  * [Parametrized classifiers for optimal EFT sensitivity](https://arxiv.org/abs/2007.10356) (arXiv:2007.10356)
+  
+: ### Shapley Values for Post-hoc Interpretation
+  * [Shapley explainability on the data manifold](https://arxiv.org/abs/2006.01272) (arXiv:2006.01272)
+  * [The many Shapley values for model explanation](https://arxiv.org/abs/1908.08474) (arXiv:1908.08474)
+  * [Using Shapley Values and Variational Autoencoders to Explain Predictive Models with Dependent Mixed Features](https://arxiv.org/abs/2111.13507) (arXiv:2111.13507)
+  * [Causal Shapley Values: Exploiting Causal Knowledge to Explain Individual Predictions of Complex Models](https://arxiv.org/abs/2011.01625) (arXiv:2011.01625)
+  * [Explaining individual predictions when features are dependent: More accurate approximations to Shapley values](https://arxiv.org/abs/1903.10464) (arXiv:1903.10464)
+
+
 2026-04-06
 : ### Field Level Inferences in Cosmology
   * **focused**{:.focus-label} [Field-Level Inference of Primordial Non-Gaussianity with the Quijote Simulation Suite](https://arxiv.org/abs/2603.20855) (arXiv:2603.20855)
