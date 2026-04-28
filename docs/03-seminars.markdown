@@ -25,7 +25,7 @@ Apr. 28 (Tue)
   * <details>
       <summary data-open="Abstract" data-close="Show Abstract"></summary>
       How neurons in the brain represent sensory information is one of the central questions in neuroscience. Recent experiments addressing this problem have revealed that the stimulus responses of cortical neurons exhibit a critical power law. This criticality is hypothesized to balance expressivity and robustness in neural encoding by avoiding the so-called fractal regime, where neural responses become overly sensitive to input perturbations. However, contrary to this assumption, we mathematically prove that neural coding is more robust than previously believed. We develop a theory that provides an analytical expression for the Fisher information in population coding and show that, due to its intrinsic high dimensionality, population coding does not degrade even in the fractal regime. Furthermore, we show that the trade-off between energy consumption and the efficiency of information coding results in the critical power law being the optimal population coding for sensory information.
-      
+      <br />
 Tatsukawa & Teramae, The cortical critical power law balances energy and information in an optimal fashion, [PNAS 122.21, e2418218122 (2025)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12130854/)
     </details>
     
