@@ -22,7 +22,7 @@ Apr. 28 (Tue)
   * Speaker: Jun-nosuke Teramae (Kyoto University)
   * Time: 1:30 PM JST/KST, 12:30 PM Beijing
   * [link to the seminar page: UTokyo](https://www.ipi.s.u-tokyo.ac.jp/news/246/)
-  * <details>
+  * <details markdown=1>
       <summary data-open="Abstract" data-close="Show Abstract"></summary>
       How neurons in the brain represent sensory information is one of the central questions in neuroscience. Recent experiments addressing this problem have revealed that the stimulus responses of cortical neurons exhibit a critical power law. This criticality is hypothesized to balance expressivity and robustness in neural encoding by avoiding the so-called fractal regime, where neural responses become overly sensitive to input perturbations. However, contrary to this assumption, we mathematically prove that neural coding is more robust than previously believed. We develop a theory that provides an analytical expression for the Fisher information in population coding and show that, due to its intrinsic high dimensionality, population coding does not degrade even in the fractal regime. Furthermore, we show that the trade-off between energy consumption and the efficiency of information coding results in the critical power law being the optimal population coding for sensory information.
       <br />
