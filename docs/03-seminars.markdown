@@ -14,19 +14,25 @@ Upcoming Seminars
 -----------------
 
 Apr. 28 (Tue)
-: ### Energy-information trade-off optimizes the cortical critical power law coding
+: ### Building autonomous AI physicists for frontier physics research
   <span class="tags">
-    <span class="tag">#iPI seminar</span>
+    <span class="tag">#DEEP-IN seminar</span>
   </span>
 
-  * Speaker: Jun-nosuke Teramae (Kyoto University)
+  * Speaker: Tingjia Miao (School of Artificial Intelligence, Shanghai Jiao Tong University, China)
   * Time: 1:30 PM JST/KST, 12:30 PM Beijing
-  * [link to the seminar page: UTokyo](https://www.ipi.s.u-tokyo.ac.jp/news/246/)
+  * [link to the seminar page](https://ithems.riken.jp/en/events/building-autonomous-ai-physicists-for-frontier-physics-research)
   * <details markdown=1>
       <summary data-open="Abstract" data-close="Show Abstract"></summary>
-      How neurons in the brain represent sensory information is one of the central questions in neuroscience. Recent experiments addressing this problem have revealed that the stimulus responses of cortical neurons exhibit a critical power law. This criticality is hypothesized to balance expressivity and robustness in neural encoding by avoiding the so-called fractal regime, where neural responses become overly sensitive to input perturbations. However, contrary to this assumption, we mathematically prove that neural coding is more robust than previously believed. We develop a theory that provides an analytical expression for the Fisher information in population coding and show that, due to its intrinsic high dimensionality, population coding does not degrade even in the fractal regime. Furthermore, we show that the trade-off between energy consumption and the efficiency of information coding results in the critical power law being the optimal population coding for sensory information.
+      Advances in LLMs have led to agents with knowledge and operational capabilities comparable to human scientists, suggesting potential to assist, accelerate, and automate research. Physics, especially theoretical and computational physics, which requires integrating analytical reasoning, code-based computation, and profound domain expertise, is well suited for verifying the end-to-end research capabilities of AI scientists. Accordingly, we construct a general-purpose AI physicist PhysMaster, equipped with a layered academic knowledge base, adapted to the agent skill ecosystem, and adopting an adaptive exploration strategy that balances efficiency and exploration, enabling robust performance in ultra-long-horizon tasks; PhysMaster has been open-sourced. Meanwhile, we introduce PRL-Bench (Physics Research by LLMs), a benchmark with 100 tasks adapted from recent Physical Review Letters papers, covering astrophysics, condensed matter physics, high-energy physics, quantum information, and statistical physics. Evaluation across frontier models shows that failures are dominated by conceptual and formulaic errors, and that exploration and derivations remain unstable over long horizons. In addition, we develop domain-specialized AI scientists, including LQCD Master, which integrates Lattice QCD workflows and expert skills, enabling automated generation and submission of lattice computation scripts from concise physics goals.
       <br /><br />
-      Reference: Tatsukawa & Teramae, The cortical critical power law balances energy and information in an optimal fashion, [PNAS 122.21, e2418218122 (2025)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12130854/)
+      References
+      * Miao, Tingjia and others, PhysMaster: Building an Autonomous AI Physicist for Theoretical and Computational Physics Research, [arXiv:2512.19799](https://arxiv.org/abs/2512.19799)
+      * Tan, Jin-Xin, Miao, Ting-Jia and others, Automated Extraction of Collins-Soper Kernel from Lattice QCD using An Autonomous AI Physicist System, [arXiv:2603.22471](https://arxiv.org/abs/2603.22471)
+      * Miao, Tingjia and others, PRL-Bench: A Comprehensive Benchmark Evaluating LLMs’ Capabilities in Frontier Physics Research, [arXiv:2604.15411](https://arxiv.org/abs/2604.15411)
+      Related Links:
+      * [PhysMaster Github](https://github.com/sjtu-sai-agents/PhysMaster)
+      * [PRL Bench HuggingFace](https://huggingface.co/datasets/AdrianMiao/PRL_Bench)
     </details>
     
 <!-- ----------------------------------- -->
@@ -44,6 +50,24 @@ May 20 (Wed)
 
 Past Seminars 2026
 -------------
+
+Apr. 28 (Tue)
+: ### Energy-information trade-off optimizes the cortical critical power law coding
+  <span class="tags">
+    <span class="tag">#iPI seminar</span>
+  </span>
+
+  * Speaker: Jun-nosuke Teramae (Kyoto University)
+  * Time: 1:30 PM JST/KST, 12:30 PM Beijing
+  * [link to the seminar page: UTokyo](https://www.ipi.s.u-tokyo.ac.jp/news/246/)
+  * <details markdown=1>
+      <summary data-open="Abstract" data-close="Show Abstract"></summary>
+      How neurons in the brain represent sensory information is one of the central questions in neuroscience. Recent experiments addressing this problem have revealed that the stimulus responses of cortical neurons exhibit a critical power law. This criticality is hypothesized to balance expressivity and robustness in neural encoding by avoiding the so-called fractal regime, where neural responses become overly sensitive to input perturbations. However, contrary to this assumption, we mathematically prove that neural coding is more robust than previously believed. We develop a theory that provides an analytical expression for the Fisher information in population coding and show that, due to its intrinsic high dimensionality, population coding does not degrade even in the fractal regime. Furthermore, we show that the trade-off between energy consumption and the efficiency of information coding results in the critical power law being the optimal population coding for sensory information.
+      <br /><br />
+      Reference: Tatsukawa & Teramae, The cortical critical power law balances energy and information in an optimal fashion, [PNAS 122.21, e2418218122 (2025)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12130854/)
+    </details>
+    
+<!-- ----------------------------------- -->
 
 Apr. 16 (Thu)
 : ### Searching For Anomalies with Foundation Models
