@@ -19,7 +19,7 @@ Apr. 30 (Thu)
     <span class="tag">#DEEP-IN seminar</span>
   </span>
 
-  * Speaker: Tingjia Miao (School of Artificial Intelligence, Shanghai Jiao Tong University, China)
+  * Speaker: Tingjia Miao (School of Artificial Intelligence, Shanghai Jiao Tong University)
   * Time: 1:30 PM JST/KST, 12:30 PM Beijing
   * [link to the seminar page](https://ithems.riken.jp/en/events/building-autonomous-ai-physicists-for-frontier-physics-research)
   * <details markdown=1>
