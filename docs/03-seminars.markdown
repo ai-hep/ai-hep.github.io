@@ -30,6 +30,7 @@ Apr. 30 (Thu)
       * Miao, Tingjia and others, PhysMaster: Building an Autonomous AI Physicist for Theoretical and Computational Physics Research, [arXiv:2512.19799](https://arxiv.org/abs/2512.19799)
       * Tan, Jin-Xin, Miao, Ting-Jia and others, Automated Extraction of Collins-Soper Kernel from Lattice QCD using An Autonomous AI Physicist System, [arXiv:2603.22471](https://arxiv.org/abs/2603.22471)
       * Miao, Tingjia and others, PRL-Bench: A Comprehensive Benchmark Evaluating LLMs’ Capabilities in Frontier Physics Research, [arXiv:2604.15411](https://arxiv.org/abs/2604.15411)
+      
       Related Links:
       * [PhysMaster Github](https://github.com/sjtu-sai-agents/PhysMaster)
       * [PRL Bench HuggingFace](https://huggingface.co/datasets/AdrianMiao/PRL_Bench)
