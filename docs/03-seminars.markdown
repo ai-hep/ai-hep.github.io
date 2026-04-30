@@ -13,7 +13,7 @@ Our online joint seminars are at the intersection of AI and fundamental physics 
 Upcoming Seminars
 -----------------
 
-Apr. 28 (Tue)
+Apr. 30 (Thu)
 : ### Building autonomous AI physicists for frontier physics research
   <span class="tags">
     <span class="tag">#DEEP-IN seminar</span>
