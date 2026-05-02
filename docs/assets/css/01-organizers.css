@@ -224,9 +224,7 @@
    ============================================================ */
 .block-advisory h3 {
   margin: 0 0 var(--spacing-xs) 0;
-  font-size: 1.25rem;
   font-weight: 600;
-  color: var(--accent-color);
 }
 
 /* Grid on the <dl>: 1 → 2 → 3 columns at increasing widths */
