@@ -113,18 +113,18 @@ Organizer Cards
   ![Photo of Huilin Qu]({{ '/images/huilin.JPG' | relative_url }})
   
   ### Huilin Qu
-  <span class="person-role">Staff Research Physicist</span>\\
-  <span class="person-affiliation">CERN</span>
+  <span class="person-role">Tenured Fellow/Associate Professor</span>\\
+  <span class="person-affiliation">Tsung-Dao Lee Institute, Shanghai Jiao Tong University</span>
   
   <!-- Tags -->
-  - Jet Tagging
-  - Deep Learning
-  - Collider Physics
-  - AI Integration
+  - Representation Learning
+  - Foundation Model
+  - Collider & Jet Physics
+  - Dark Matter and Neutrino Experiments
   {:.person-tags}
   
   <!-- Bio -->  
-  Dr. Huilin Qu (曲慧麟) is a staff research physicist at CERN. He received his B.S. degree from Peking University in 2014 and his Ph.D. from the University of California, Santa Barbara in 2019. His research is at the forefront of artificial intelligence and particle physics, where he has pioneered several innovative deep learning techniques for jet tagging—most notably ParticleNet—which has significantly improved performance and is now widely adopted at the LHC and beyond. As a member of the CMS experiment, Dr. Qu has contributed to searches for Higgs decays to charm quarks and Higgs boson pair production, earning the 2023 CMS Young Researcher Prize for advances in AI-based jet tagging and measurements.
+  Huilin Qu (曲慧麟) is a Tenured Fellow (Associate Professor with Tenure) at Tsung-Dao Lee Institute, Shanghai Jiao Tong University. He received his B.S. degree from Peking University in 2014 and his Ph.D. from the University of California, Santa Barbara in 2019. His research is at the forefront of artificial intelligence and particle physics, where he has pioneered several innovative deep learning techniques for jet tagging—most notably ParticleNet—which has significantly improved performance and is now widely adopted at the LHC and beyond. As a member of the CMS experiment, he has contributed to searches for Higgs decays to charm quarks and Higgs boson pair production, earning the 2023 CMS Young Researcher Prize for advances in AI-based jet tagging and measurements.
   {:.person-bio}
   <button class="bio-toggle">Read more</button>
   
