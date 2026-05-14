@@ -59,6 +59,33 @@ Organizer Cards
   </span>
   
 : <!-- --------------------------------------------------- -->
+  <!-- CARD: Ahmed Hammad                                  -->
+  <!-- --------------------------------------------------- -->
+  ![Photo of Ahmed Hammad]({{ '/images/hammad.jpg' | relative_url }}){:.person-photo--contain}
+  
+  ### Ahmed Hammad
+  <span class="person-role">Postdoctoral Researcher</span>\\
+  <span class="person-affiliation">Theory Center, High Energy Accelerator Research Organization (KEK), Japan</span>
+  
+  <!-- Tags -->
+  - Beyond SM
+  - Collider Phenomenology
+  - Future Colliders
+  - Jet Physics
+  - AI for Science
+  {:.person-tags}
+  
+  <!-- Bio -->  
+  Ahmed Hammad is a Postdoctoral Researcher in the Theory Division at the High Energy Accelerator Research Organization (KEK, Tsukuba, Japan). He received his Ph.D. in Theoretical Physics in 2021 from the University of Basel (Switzerland). His research focuses on collider phenomenology and physics beyond the Standard Model, with a particular emphasis on applying advanced machine learning methods, both classical and quantum, to high energy physics. He has contributed to searches for new physics at the LHC and HL-LHC, with work spanning Higgs boson phenomenology, top quark flavor-changing neutral currents and anomaly detection techniques.
+  {:.person-bio}
+  <button class="bio-toggle">Read more</button>
+  
+  <!-- Email -->
+  <span class="person-contact">
+  Email: [hamed@post.kek.jp](mailto:hamed@post.kek.jp)
+  </span>
+
+: <!-- --------------------------------------------------- -->
   <!-- CARD: Sung Hak Lim                                    -->
   <!-- --------------------------------------------------- -->
   ![Photo of Sung Hak Lim]({{ '/images/sunghak.png' | relative_url }})
@@ -82,6 +109,33 @@ Organizer Cards
   <!-- Email -->
   <span class="person-contact">
   Email: [sunghak.lim@ibs.re.kr](mailto:sunghak.lim@ibs.re.kr)
+  </span>
+
+: <!-- --------------------------------------------------- -->
+  <!-- CARD: Marco Meyer-Conde                             -->
+  <!-- --------------------------------------------------- -->
+  ![Photo of Marco Meyer-Conde]({{ '/images/marco.jpg' | relative_url }})
+  
+  ### Marco Meyer-Conde
+  <span class="person-role">Assistant Research Professor</span>\\
+  <span class="person-affiliation">Tokyo City University</span>
+  
+  <!-- Tags -->
+  - AI for Science
+  - Gravitational Waves
+  - Future Colliders
+  - Quantum Chromodynamics
+  - Pion Phenomenology
+  {:.person-tags}
+  
+  <!-- Bio -->  
+  Marco Meyer is an Assistant Research Professor at Tokyo City University since 2024, specializing in machine learning for scientific applications and advanced signal processing techniques. He is a high-energy physics researcher by education with a focus on hadronic physics. He completed his Ph.D. at Université Paris-Saclay on the extraction of absolute Drell-Yan 2015 cross-sections using a 200 GeV negatively charged pion beam at COMPASS/AMBER (CERN), under a co-direction with CEA/Irfu/DPhN at Saclay and the University of Illinois Urbana-Champaign (USA), followed by a junior postdoctoral position at UIUC hosted at CERN. In 2021, he was awarded the JSPS-CNRS Overseas Fellowship, working as a senior postdoctoral fellow at Osaka Metropolitan University, where he worked on gravitational wave experiment physics, software & computing design, and machine learning applications for waveform forecasting. Marco is a member of the LIGO-VIRGO-KAGRA gravitational wave collaboration and the ePIC collaboration for Electron-Ion Collider physics. Outside of research, he enjoys blogging online, skiing, and bouldering.
+  {:.person-bio}
+  <button class="bio-toggle">Read more</button>
+  
+  <!-- Email -->
+  <span class="person-contact">
+  Email: [marco@tcu.ac.jp](mailto:marco@tcu.ac.jp)
   </span>
 
 : <!-- --------------------------------------------------- -->
@@ -134,33 +188,6 @@ Organizer Cards
   </span>
 
 : <!-- --------------------------------------------------- -->
-  <!-- CARD: Marco Meyer-Conde                             -->
-  <!-- --------------------------------------------------- -->
-  ![Photo of Marco Meyer-Conde]({{ '/images/marco.jpg' | relative_url }})
-  
-  ### Marco Meyer-Conde
-  <span class="person-role">Assistant Research Professor</span>\\
-  <span class="person-affiliation">Tokyo City University</span>
-  
-  <!-- Tags -->
-  - AI for Science
-  - Gravitational Waves
-  - Future Colliders
-  - Quantum Chromodynamics
-  - Pion Phenomenology
-  {:.person-tags}
-  
-  <!-- Bio -->  
-  Marco Meyer is an Assistant Research Professor at Tokyo City University since 2024, specializing in machine learning for scientific applications and advanced signal processing techniques. He is a high-energy physics researcher by education with a focus on hadronic physics. He completed his Ph.D. at Université Paris-Saclay on the extraction of absolute Drell-Yan 2015 cross-sections using a 200 GeV negatively charged pion beam at COMPASS/AMBER (CERN), under a co-direction with CEA/Irfu/DPhN at Saclay and the University of Illinois Urbana-Champaign (USA), followed by a junior postdoctoral position at UIUC hosted at CERN. In 2021, he was awarded the JSPS-CNRS Overseas Fellowship, working as a senior postdoctoral fellow at Osaka Metropolitan University, where he worked on gravitational wave experiment physics, software & computing design, and machine learning applications for waveform forecasting. Marco is a member of the LIGO-VIRGO-KAGRA gravitational wave collaboration and the ePIC collaboration for Electron-Ion Collider physics. Outside of research, he enjoys blogging online, skiing, and bouldering.
-  {:.person-bio}
-  <button class="bio-toggle">Read more</button>
-  
-  <!-- Email -->
-  <span class="person-contact">
-  Email: [marco@tcu.ac.jp](mailto:marco@tcu.ac.jp)
-  </span>
-
-: <!-- --------------------------------------------------- -->
   <!-- CARD: Lingxiao Wang                                 -->
   <!-- --------------------------------------------------- -->
   ![Photo of Lingxiao Wang]({{ '/images/lingxiao.jpg' | relative_url }})
@@ -183,34 +210,7 @@ Organizer Cards
   
   <!-- Email -->
   <span class="person-contact">
-  Email: [lwang@fias.uni-frankfurt.de](mailto:lwang@fias.uni-frankfurt.de)
-  </span>
-
-: <!-- --------------------------------------------------- -->
-  <!-- CARD: Ahmed Hammad                                  -->
-  <!-- --------------------------------------------------- -->
-  ![Photo of Ahmed Hammad]({{ '/images/hammad.jpg' | relative_url }}){:.person-photo--contain}
-  
-  ### Ahmed Hammad
-  <span class="person-role">Postdoctoral Researcher</span>\\
-  <span class="person-affiliation">Theory Center, High Energy Accelerator Research Organization (KEK), Japan</span>
-  
-  <!-- Tags -->
-  - Beyond SM
-  - Collider Phenomenology
-  - Future Colliders
-  - Jet Physics
-  - AI for Science
-  {:.person-tags}
-  
-  <!-- Bio -->  
-  Ahmed Hammad is a Postdoctoral Researcher in the Theory Division at the High Energy Accelerator Research Organization (KEK, Tsukuba, Japan). He received his Ph.D. in Theoretical Physics in 2021 from the University of Basel (Switzerland). His research focuses on collider phenomenology and physics beyond the Standard Model, with a particular emphasis on applying advanced machine learning methods, both classical and quantum, to high energy physics. He has contributed to searches for new physics at the LHC and HL-LHC, with work spanning Higgs boson phenomenology, top quark flavor-changing neutral currents and anomaly detection techniques.
-  {:.person-bio}
-  <button class="bio-toggle">Read more</button>
-  
-  <!-- Email -->
-  <span class="person-contact">
-  Email: [hamed@post.kek.jp](mailto:hamed@post.kek.jp)
+  Email: [lingxiao.wang@riken.jp](mailto:lingxiao.wang@riken.jp)
   </span>
 
 </div>
@@ -224,55 +224,55 @@ Distinguished researchers worldwide providing guidance and support to our commun
 <div class="block-advisory" markdown=1>
 
 Advisory Committee
-: ### Mihoko Nojiri
+: ### Matthew R. Buckley
+  <span class="advisory-position">Associate Professor</span>\\
+  <span class="advisory-affiliation">Rutgers University</span>\\
+  [Personal Website](http://www.physicsmatt.com/){:target="_blank" rel="noopener"}
+
+: ### Cheng-Wei Chiang
   <span class="advisory-position">Professor</span>\\
-  <span class="advisory-affiliation">Tokyo City University</span>\\
-  [Personal Website](http://www2.kek.jp/theory-center/theory_e/archives/member/nojiri-mihoko/)
-  
-: ### Satoshi Iso
-  <span class="advisory-position">Professor</span>\\
-  <span class="advisory-affiliation">RIKEN/KEK</span>\\
-  [Personal Website](http://www2.kek.jp/theory-center/theory_e/archives/member/iso-satoshi/)
-  
+  <span class="advisory-affiliation">National Taiwan University</span>\\
+  [Personal Website](https://www.phys.ntu.edu.tw/enphysics/chengwei.html){:target="_blank" rel="noopener"}
+
 : ### Koji Hashimoto
   <span class="advisory-position">Professor</span>\\
   <span class="advisory-affiliation">Kyoto University</span>\\
   [Personal Website](https://www-gauge.scphys.kyoto-u.ac.jp/hashimoto/welcome.html){:target="_blank" rel="noopener"}
 
-: ### Yanqing Ma
+: ### Satoshi Iso
   <span class="advisory-position">Professor</span>\\
-  <span class="advisory-affiliation">Peking University</span>\\
-  [Personal Website](https://faculty.pku.edu.cn/yqma/en/index.htm){:target="_blank" rel="noopener"}
-
-: ### David Shih
-  <span class="advisory-position">Professor</span>\\
-  <span class="advisory-affiliation">Rutgers University</span>\\
-  [Personal Website](https://sites.rutgers.edu/david-shih/){:target="_blank" rel="noopener"}
-
-: ### Matthew R. Buckley
-  <span class="advisory-position">Assistant Professor</span>\\
-  <span class="advisory-affiliation">Rutgers University</span>\\
-  [Personal Website](http://www.physicsmatt.com/){:target="_blank" rel="noopener"}
+  <span class="advisory-affiliation">RIKEN/KEK</span>\\
+  [Personal Website](http://www2.kek.jp/theory-center/theory_e/archives/member/iso-satoshi/)
 
 : ### Gregor Kasieczka
   <span class="advisory-position">Professor</span>\\
   <span class="advisory-affiliation">University of Hamburg</span>\\
   [Personal Website](https://www.physik.uni-hamburg.de/en/iexp/gruppe-kasieczka.html){:target="_blank" rel="noopener"}
 
-: ### Hua Xing Zhu
+: ### Yanqing Ma
   <span class="advisory-position">Professor</span>\\
   <span class="advisory-affiliation">Peking University</span>\\
-  [Personal Website](https://konformal.github.io){:target="_blank" rel="noopener"}
+  [Personal Website](https://faculty.pku.edu.cn/yqma/en/index.htm){:target="_blank" rel="noopener"}
 
 : ### Benjamin Nachman
   <span class="advisory-position">Associate Professor</span>\\
   <span class="advisory-affiliation">Stanford University/SLAC</span>\\
-  [Personal Website](https://nachmangroup.github.io/){:target="_blank" rel="noopener"}
+  [Personal Website](https://nachmangroup.stanford.edu/){:target="_blank" rel="noopener"}
 
-: ### Cheng-Wei Chiang
+: ### Mihoko Nojiri
   <span class="advisory-position">Professor</span>\\
-  <span class="advisory-affiliation">National Taiwan University</span>\\
-  [Personal Website](https://www.phys.ntu.edu.tw/enphysics/chengwei.html){:target="_blank" rel="noopener"}
+  <span class="advisory-affiliation">KEK/IPMU</span>\\
+  [Personal Website](http://www2.kek.jp/theory-center/theory_e/archives/member/nojiri-mihoko/)
+
+: ### David Shih
+  <span class="advisory-position">Professor</span>\\
+  <span class="advisory-affiliation">Rutgers University</span>\\
+  [Personal Website](https://sites.rutgers.edu/david-shih/){:target="_blank" rel="noopener"}
+
+: ### Hua Xing Zhu
+  <span class="advisory-position">Professor</span>\\
+  <span class="advisory-affiliation">Peking University</span>\\
+  [Personal Website](https://konformal.github.io){:target="_blank" rel="noopener"}
 </div>
 
 
