@@ -259,7 +259,7 @@ Advisory Committee
   <span class="advisory-affiliation">Stanford University/SLAC</span>\\
   [Personal Website](https://nachmangroup.stanford.edu/){:target="_blank" rel="noopener"}
 
-: ### Mihoko Nojiri
+: ### Mihoko M. Nojiri
   <span class="advisory-position">Professor</span>\\
   <span class="advisory-affiliation">KEK/IPMU</span>\\
   [Personal Website](http://www2.kek.jp/theory-center/theory_e/archives/member/nojiri-mihoko/)
