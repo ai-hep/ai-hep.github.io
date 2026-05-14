@@ -231,43 +231,48 @@ Advisory Committee
   
 : ### Satoshi Iso
   <span class="advisory-position">Professor</span>\\
-  <span class="advisory-affiliation">RIKEN/KEK, Japan</span>\\
+  <span class="advisory-affiliation">RIKEN/KEK</span>\\
   [Personal Website](http://www2.kek.jp/theory-center/theory_e/archives/member/iso-satoshi/)
   
 : ### Koji Hashimoto
   <span class="advisory-position">Professor</span>\\
-  <span class="advisory-affiliation">Kyoto University, Japan</span>\\
+  <span class="advisory-affiliation">Kyoto University</span>\\
   [Personal Website](https://www-gauge.scphys.kyoto-u.ac.jp/hashimoto/welcome.html){:target="_blank" rel="noopener"}
 
 : ### Yanqing Ma
   <span class="advisory-position">Professor</span>\\
-  <span class="advisory-affiliation">Peking University, China</span>\\
+  <span class="advisory-affiliation">Peking University</span>\\
   [Personal Website](https://faculty.pku.edu.cn/yqma/en/index.htm){:target="_blank" rel="noopener"}
 
 : ### David Shih
   <span class="advisory-position">Professor</span>\\
-  <span class="advisory-affiliation">Rutgers University, USA</span>\\
+  <span class="advisory-affiliation">Rutgers University</span>\\
   [Personal Website](https://sites.rutgers.edu/david-shih/){:target="_blank" rel="noopener"}
 
 : ### Matthew R. Buckley
   <span class="advisory-position">Assistant Professor</span>\\
-  <span class="advisory-affiliation">Rutgers University, USA</span>\\
+  <span class="advisory-affiliation">Rutgers University</span>\\
   [Personal Website](http://www.physicsmatt.com/){:target="_blank" rel="noopener"}
 
 : ### Gregor Kasieczka
   <span class="advisory-position">Professor</span>\\
-  <span class="advisory-affiliation">University of Hamburg, Germany</span>\\
+  <span class="advisory-affiliation">University of Hamburg</span>\\
   [Personal Website](https://www.physik.uni-hamburg.de/en/iexp/gruppe-kasieczka.html){:target="_blank" rel="noopener"}
 
 : ### Hua Xing Zhu
   <span class="advisory-position">Professor</span>\\
-  <span class="advisory-affiliation">Peking University, China</span>\\
+  <span class="advisory-affiliation">Peking University</span>\\
   [Personal Website](https://konformal.github.io){:target="_blank" rel="noopener"}
 
 : ### Benjamin Nachman
   <span class="advisory-position">Associate Professor</span>\\
-  <span class="advisory-affiliation">Stanford University/SLAC, USA</span>\\
+  <span class="advisory-affiliation">Stanford University/SLAC</span>\\
   [Personal Website](https://nachmangroup.github.io/){:target="_blank" rel="noopener"}
+
+: ### Cheng-Wei Chiang
+  <span class="advisory-position">Professor</span>\\
+  <span class="advisory-affiliation">National Taiwan University</span>\\
+  [Personal Website](https://www.phys.ntu.edu.tw/enphysics/chengwei.html){:target="_blank" rel="noopener"}
 </div>
 
 
