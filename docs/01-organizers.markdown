@@ -210,7 +210,7 @@ Organizer Cards
   
   <!-- Email -->
   <span class="person-contact">
-  Email: [lwang@fias.uni-frankfurt.de](mailto:lwang@fias.uni-frankfurt.de)
+  Email: [lingxiao.wang@riken.jp](mailto:lingxiao.wang@riken.jp)
   </span>
 
 </div>
@@ -225,7 +225,7 @@ Distinguished researchers worldwide providing guidance and support to our commun
 
 Advisory Committee
 : ### Matthew R. Buckley
-  <span class="advisory-position">Assistant Professor</span>\\
+  <span class="advisory-position">Associate Professor</span>\\
   <span class="advisory-affiliation">Rutgers University</span>\\
   [Personal Website](http://www.physicsmatt.com/){:target="_blank" rel="noopener"}
 
@@ -257,7 +257,7 @@ Advisory Committee
 : ### Benjamin Nachman
   <span class="advisory-position">Associate Professor</span>\\
   <span class="advisory-affiliation">Stanford University/SLAC</span>\\
-  [Personal Website](https://nachmangroup.github.io/){:target="_blank" rel="noopener"}
+  [Personal Website](https://nachmangroup.stanford.edu/){:target="_blank" rel="noopener"}
 
 : ### Mihoko Nojiri
   <span class="advisory-position">Professor</span>\\
