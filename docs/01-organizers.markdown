@@ -113,18 +113,18 @@ Organizer Cards
   ![Photo of Huilin Qu]({{ '/images/huilin.JPG' | relative_url }})
   
   ### Huilin Qu
-  <span class="person-role">Staff Research Physicist</span>\\
-  <span class="person-affiliation">CERN</span>
+  <span class="person-role">Tenured Fellow/Associate Professor</span>\\
+  <span class="person-affiliation">Tsung-Dao Lee Institute, Shanghai Jiao Tong University</span>
   
   <!-- Tags -->
-  - Jet Tagging
-  - Deep Learning
-  - Collider Physics
-  - AI Integration
+  - Representation Learning
+  - Foundation Model
+  - Collider & Jet Physics
+  - Dark Matter and Neutrino Experiments
   {:.person-tags}
   
   <!-- Bio -->  
-  Dr. Huilin Qu (曲慧麟) is a staff research physicist at CERN. He received his B.S. degree from Peking University in 2014 and his Ph.D. from the University of California, Santa Barbara in 2019. His research is at the forefront of artificial intelligence and particle physics, where he has pioneered several innovative deep learning techniques for jet tagging—most notably ParticleNet—which has significantly improved performance and is now widely adopted at the LHC and beyond. As a member of the CMS experiment, Dr. Qu has contributed to searches for Higgs decays to charm quarks and Higgs boson pair production, earning the 2023 CMS Young Researcher Prize for advances in AI-based jet tagging and measurements.
+  Huilin Qu (曲慧麟) is a Tenured Fellow (Associate Professor with Tenure) at Tsung-Dao Lee Institute, Shanghai Jiao Tong University. He received his B.S. degree from Peking University in 2014 and his Ph.D. from the University of California, Santa Barbara in 2019. His research is at the forefront of artificial intelligence and particle physics, where he has pioneered several innovative deep learning techniques for jet tagging—most notably ParticleNet—which has significantly improved performance and is now widely adopted at the LHC and beyond. As a member of the CMS experiment, he has contributed to searches for Higgs decays to charm quarks and Higgs boson pair production, earning the 2023 CMS Young Researcher Prize for advances in AI-based jet tagging and measurements.
   {:.person-bio}
   <button class="bio-toggle">Read more</button>
   
@@ -231,43 +231,48 @@ Advisory Committee
   
 : ### Satoshi Iso
   <span class="advisory-position">Professor</span>\\
-  <span class="advisory-affiliation">RIKEN/KEK, Japan</span>\\
+  <span class="advisory-affiliation">RIKEN/KEK</span>\\
   [Personal Website](http://www2.kek.jp/theory-center/theory_e/archives/member/iso-satoshi/)
   
 : ### Koji Hashimoto
   <span class="advisory-position">Professor</span>\\
-  <span class="advisory-affiliation">Kyoto University, Japan</span>\\
+  <span class="advisory-affiliation">Kyoto University</span>\\
   [Personal Website](https://www-gauge.scphys.kyoto-u.ac.jp/hashimoto/welcome.html){:target="_blank" rel="noopener"}
 
 : ### Yanqing Ma
   <span class="advisory-position">Professor</span>\\
-  <span class="advisory-affiliation">Peking University, China</span>\\
+  <span class="advisory-affiliation">Peking University</span>\\
   [Personal Website](https://faculty.pku.edu.cn/yqma/en/index.htm){:target="_blank" rel="noopener"}
 
 : ### David Shih
   <span class="advisory-position">Professor</span>\\
-  <span class="advisory-affiliation">Rutgers University, USA</span>\\
+  <span class="advisory-affiliation">Rutgers University</span>\\
   [Personal Website](https://sites.rutgers.edu/david-shih/){:target="_blank" rel="noopener"}
 
 : ### Matthew R. Buckley
   <span class="advisory-position">Assistant Professor</span>\\
-  <span class="advisory-affiliation">Rutgers University, USA</span>\\
+  <span class="advisory-affiliation">Rutgers University</span>\\
   [Personal Website](http://www.physicsmatt.com/){:target="_blank" rel="noopener"}
 
 : ### Gregor Kasieczka
   <span class="advisory-position">Professor</span>\\
-  <span class="advisory-affiliation">University of Hamburg, Germany</span>\\
+  <span class="advisory-affiliation">University of Hamburg</span>\\
   [Personal Website](https://www.physik.uni-hamburg.de/en/iexp/gruppe-kasieczka.html){:target="_blank" rel="noopener"}
 
 : ### Hua Xing Zhu
   <span class="advisory-position">Professor</span>\\
-  <span class="advisory-affiliation">Peking University, China</span>\\
+  <span class="advisory-affiliation">Peking University</span>\\
   [Personal Website](https://konformal.github.io){:target="_blank" rel="noopener"}
 
 : ### Benjamin Nachman
   <span class="advisory-position">Associate Professor</span>\\
-  <span class="advisory-affiliation">Stanford University/SLAC, USA</span>\\
+  <span class="advisory-affiliation">Stanford University/SLAC</span>\\
   [Personal Website](https://nachmangroup.github.io/){:target="_blank" rel="noopener"}
+
+: ### Cheng-Wei Chiang
+  <span class="advisory-position">Professor</span>\\
+  <span class="advisory-affiliation">National Taiwan University</span>\\
+  [Personal Website](https://www.phys.ntu.edu.tw/enphysics/chengwei.html){:target="_blank" rel="noopener"}
 </div>
 
 
