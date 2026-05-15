@@ -13,6 +13,25 @@ Our online joint seminars are at the intersection of AI and fundamental physics 
 Upcoming Seminars
 -----------------
 
+
+May 20 (Wed)
+: ### Look-Everywhere Effects in Anomaly Detection
+  <span class="tags">
+    <span class="tag">#CTPU-PTC seminar</span>
+  </span>
+
+  * Speaker: Marie Hein (RWTH Aachen)
+  * Time: 3:00 PM JST/KST, 2:00 PM Beijing
+  * <details markdown=1>
+      <summary data-open="Abstract" data-close="Show Abstract"></summary>
+      To avoid false discoveries in high-energy physics, we typically require a significance exceeding 5σ before claiming a discovery of new physics. Under the background-only hypothesis, the probability of such an excess arising from statistical fluctuations is only about 3×10−7. However, this interpretation is only valid when statistical trials factors are treated correctly. In particular, searches that probe many possible signal configurations — for example by scanning over multiple bins or regions of phase space — are subject to the look-elsewhere effect. Modern model-agnostic searches increasingly rely on machine learning-based anomaly detection, where the search over possible signals is often implicit rather than explicit. This raises important questions about how look-elsewhere effects manifest in these methods. In this seminar, I will compare the statistical behavior of classical binned model-agnostic searches to that of weakly supervised anomaly detection searches. This includes translating between statistics and machine learning terminology to understand parallels and differences in known effects and common practices. Finally, I will discuss how different look-elsewhere effect mitigation strategies impact analysis sensitivity.
+    </details>
+    
+<!-- ----------------------------------- -->
+
+Past Seminars 2026
+-------------
+
 Apr. 30 (Thu)
 : ### Building autonomous AI physicists for frontier physics research
   <span class="tags">
@@ -37,20 +56,6 @@ Apr. 30 (Thu)
     </details>
     
 <!-- ----------------------------------- -->
-
-May 20 (Wed)
-: ### TBA
-  <span class="tags">
-    <span class="tag">#CTPU-PTC seminar</span>
-  </span>
-
-  * Speaker: Marie Hein (RWTH Aachen)
-  * Time: 3:00 PM JST/KST, 2:00 PM Beijing
-
-<!-- ----------------------------------- -->
-
-Past Seminars 2026
--------------
 
 Apr. 28 (Tue)
 : ### Energy-information trade-off optimizes the cortical critical power law coding
