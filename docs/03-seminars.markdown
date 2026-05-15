@@ -21,7 +21,7 @@ May 20 (Wed)
   </span>
 
   * Speaker: Marie Hein (RWTH Aachen)
-  * Time: 3:00 PM JST/KST, 2:00 PM Beijing
+  * Time: 3:00 PM JST/KST, 2:00 PM Beijing 
   * [link to the seminar page](https://indico.ibs.re.kr/event/1257/)
   * <details markdown=1>
       <summary data-open="Abstract" data-close="Show Abstract"></summary>
