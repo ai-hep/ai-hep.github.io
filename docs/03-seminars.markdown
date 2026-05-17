@@ -21,7 +21,7 @@ May 20 (Wed)
   </span>
 
   * Speaker: Marie Hein (RWTH Aachen)
-  * Time: 3:00 PM JST/KST, 2:00 PM Beijing 
+  * Time: **3:00 PM JST/KST**, 2:00 PM Beijing 
   * [link to the seminar page](https://indico.ibs.re.kr/event/1257/)
   * <details markdown=1>
       <summary data-open="Abstract" data-close="Show Abstract"></summary>
@@ -29,6 +29,26 @@ May 20 (Wed)
     </details>
     
 <!-- ----------------------------------- -->
+
+May 20 (Wed)
+: ### How AI is changing the way we generate fundamental physics theories and test them in experiments
+  <span class="tags">
+    <span class="tag">#PhysAI-Tongji seminar</span>
+  </span>
+
+  * Speaker: Aishik Ghosh (Georgia Tech)
+  * Time: **3:30 PM Beijing**, 4:30 PM JST/KST
+  * <details>
+      <summary data-open="Abstract" data-close="Show Abstract"></summary>
+      With historically some of the biggest datasets in the world, fundamental physics has been one of the early adopters of AI. Today, it is the testbed for uncertainty quantification, density estimation and verification of agentic workflows that also affect the rest of the world. I will discuss how AI has touched every parts of the scientific method and focus on recent developments in hypothesis generation and testing, leveraging the best of both Bayesian and frequentist tools to provide automated but trustworthy scientific results.
+    </details>
+  * <details>
+      <summary data-open="Bio" data-close="Show Bio"></summary>
+      Aishik Ghosh is an assistant professor at Georgia Institute of Technology, USA. He leads the AI Physicist program supported by The National Energy Research Scientific Computing Center which focusing on the design of AI agents for theoretical physics. His group also designs neural inference techniques for experimental physics and astrophysics, having previously introduced neural simulation-based inference to the ATLAS experiment at CERN. Prof. Ghosh currently contributes to DUNE and the CMS experiment.
+    </details>
+
+<!-- ----------------------------------- -->
+
 
 Past Seminars 2026
 -------------
