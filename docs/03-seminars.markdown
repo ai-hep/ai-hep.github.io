@@ -49,6 +49,17 @@ May 20 (Wed)
 
 <!-- ----------------------------------- -->
 
+July 3 (Fri)
+: ### TBA
+  <span class="tags">
+    <span class="tag">#CTPU-PTC seminar</span>
+  </span>
+
+  * Speaker: Tianji Cai (Tongji University)
+  * Time: 3:00 PM JST/KST, 2:00 PM Beijing 
+  * [link to the seminar page](https://indico.ibs.re.kr/event/1258/)
+    
+<!-- ----------------------------------- -->
 
 Past Seminars 2026
 -------------
