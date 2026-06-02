@@ -13,23 +13,60 @@ Our online joint seminars are at the intersection of AI and fundamental physics 
 Upcoming Seminars
 -----------------
 
-
-May 20 (Wed)
-: ### Look-Everywhere Effects in Anomaly Detection
+June 10 (Wed)
+: ### Parton Showers as a New Path to Light BSM Searches
   <span class="tags">
     <span class="tag">#CTPU-PTC seminar</span>
   </span>
 
-  * Speaker: Marie Hein (RWTH Aachen)
+  * Speaker: Joon-Bin Lee (Seoul National University)
   * Time: **3:00 PM JST/KST**, 2:00 PM Beijing 
-  * [link to the seminar page](https://indico.ibs.re.kr/event/1257/)
+  * [link to the seminar page](https://indico.ibs.re.kr/event/1297/)
   * <details markdown=1>
       <summary data-open="Abstract" data-close="Show Abstract"></summary>
-      To avoid false discoveries in high-energy physics, we typically require a significance exceeding 5σ before claiming a discovery of new physics. Under the background-only hypothesis, the probability of such an excess arising from statistical fluctuations is only about 3×10−7. However, this interpretation is only valid when statistical trials factors are treated correctly. In particular, searches that probe many possible signal configurations — for example by scanning over multiple bins or regions of phase space — are subject to the look-elsewhere effect. Modern model-agnostic searches increasingly rely on machine learning-based anomaly detection, where the search over possible signals is often implicit rather than explicit. This raises important questions about how look-elsewhere effects manifest in these methods. In this seminar, I will compare the statistical behavior of classical binned model-agnostic searches to that of weakly supervised anomaly detection searches. This includes translating between statistics and machine learning terminology to understand parallels and differences in known effects and common practices. Finally, I will discuss how different look-elsewhere effect mitigation strategies impact analysis sensitivity.
+      Traditional BSM searches focus on new particles produced directly in the hard process. However, light bosons may instead appear through soft or collinear radiation during parton-shower evolution. In this seminar, I will introduce the angular-ordered BSM parton shower implemented in Herwig 7 event generator, and then discuss its phenomenological application to Z′ radiation inside jets. Unlike conventional direct-production searches, shower-induced Z′ production can yield non-isolated dimuon signatures embedded in jets. This motivates a search strategy that is complementary to conventional direct-production searches, while also opening a potentially novel direction based on jet substructure and dimuon-jet correlations.
     </details>
+
+<!-- ----------------------------------- -->
+
+July 3 (Fri)
+: ### TBA
+  <span class="tags">
+    <span class="tag">#CTPU-PTC seminar</span>
+  </span>
+
+  * Speaker: Tianji Cai (Tongji University)
+  * Time: 3:00 PM JST/KST, 2:00 PM Beijing 
+  * [link to the seminar page](https://indico.ibs.re.kr/event/1258/)
     
 <!-- ----------------------------------- -->
 
+Past Seminars 2026
+-------------
+
+June 2 (Tue)
+: ### Generative diffusion model with inverse renormalization group flows
+  <span class="tags">
+    <span class="tag">#DEEP-IN seminar</span>
+  </span>
+
+  * Speaker: Kanta Masuki (Graduate School of Science, The University of Tokyo)
+  * Time: **2:00 PM JST/KST**, 1:00 PM Beijing 
+  * [link to the seminar page](https://ithems.riken.jp/en/events/generative-diffusion-model-with-inverse-renormalization-group-flows)
+  * <details markdown=1>
+      <summary data-open="Abstract" data-close="Show Abstract"></summary>
+      Diffusion models have recently emerged as one of the most powerful frameworks for generative modeling, achieving remarkable success in a wide range of domains, including image generation, audio synthesis, and scientific data generation. However, despite their empirical success, conventional diffusion models often require many denoising steps and do not explicitly exploit the multiscale structure naturally present in various types of data. This limitation motivates us to ask whether ideas from the renormalization group (RG), which is designed to describe scale-dependent effective degrees of freedom, can provide a useful principle for constructing more efficient generative models.
+
+      In this talk, I will present our recent work on renormalization-group diffusion models (RGDMs) [1], a generative framework that connects diffusion models with RG flows. By establishing a correspondence between diffusion dynamics and exact RG flow equations, we construct a diffusion model whose reverse process generates data in a coarse-to-fine manner, thereby effectively reversing an RG flow.
+
+      I will first introduce the theoretical formulation of RGDMs and explain how the RG perspective leads to a coarse-to-fine generative process. I will then present numerical results in protein structure prediction and image generation, where RGDMs improve sample quality and/or sampling efficiency compared with conventional diffusion models. Finally, I will discuss possible extensions and open questions, including broader applications of RG-inspired generative modeling.
+      
+      References
+      * K. Masuki and Y. Ashida, Generative diffusion model with inverse renormalization group flows, [arXiv:2501.09064](https://arxiv.org/abs/2501.09064)
+    </details>
+    
+<!-- ----------------------------------- -->
+    
 May 20 (Wed)
 : ### How AI is changing the way we generate fundamental physics theories and test them in experiments
   <span class="tags">
@@ -49,20 +86,21 @@ May 20 (Wed)
 
 <!-- ----------------------------------- -->
 
-July 3 (Fri)
-: ### TBA
+May 20 (Wed)
+: ### Look-Everywhere Effects in Anomaly Detection
   <span class="tags">
     <span class="tag">#CTPU-PTC seminar</span>
   </span>
 
-  * Speaker: Tianji Cai (Tongji University)
-  * Time: 3:00 PM JST/KST, 2:00 PM Beijing 
-  * [link to the seminar page](https://indico.ibs.re.kr/event/1258/)
+  * Speaker: Marie Hein (RWTH Aachen)
+  * Time: **3:00 PM JST/KST**, 2:00 PM Beijing 
+  * [link to the seminar page](https://indico.ibs.re.kr/event/1257/)
+  * <details markdown=1>
+      <summary data-open="Abstract" data-close="Show Abstract"></summary>
+      To avoid false discoveries in high-energy physics, we typically require a significance exceeding 5σ before claiming a discovery of new physics. Under the background-only hypothesis, the probability of such an excess arising from statistical fluctuations is only about 3×10−7. However, this interpretation is only valid when statistical trials factors are treated correctly. In particular, searches that probe many possible signal configurations — for example by scanning over multiple bins or regions of phase space — are subject to the look-elsewhere effect. Modern model-agnostic searches increasingly rely on machine learning-based anomaly detection, where the search over possible signals is often implicit rather than explicit. This raises important questions about how look-elsewhere effects manifest in these methods. In this seminar, I will compare the statistical behavior of classical binned model-agnostic searches to that of weakly supervised anomaly detection searches. This includes translating between statistics and machine learning terminology to understand parallels and differences in known effects and common practices. Finally, I will discuss how different look-elsewhere effect mitigation strategies impact analysis sensitivity.
+    </details>
     
 <!-- ----------------------------------- -->
-
-Past Seminars 2026
--------------
 
 Apr. 30 (Thu)
 : ### Building autonomous AI physicists for frontier physics research
