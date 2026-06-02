@@ -62,7 +62,7 @@ June 2 (Tue)
       I will first introduce the theoretical formulation of RGDMs and explain how the RG perspective leads to a coarse-to-fine generative process. I will then present numerical results in protein structure prediction and image generation, where RGDMs improve sample quality and/or sampling efficiency compared with conventional diffusion models. Finally, I will discuss possible extensions and open questions, including broader applications of RG-inspired generative modeling.
       
       References
-      # K. Masuki and Y. Ashida, Generative diffusion model with inverse renormalization group flows, [arXiv:2501.09064](https://arxiv.org/abs/2501.09064)
+      * K. Masuki and Y. Ashida, Generative diffusion model with inverse renormalization group flows, [arXiv:2501.09064](https://arxiv.org/abs/2501.09064)
     </details>
     
 <!-- ----------------------------------- -->
