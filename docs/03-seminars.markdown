@@ -44,6 +44,26 @@ July 3 (Fri)
 Past Seminars 2026
 -------------
 
+June 4 (Thu)
+: ### DeepQuark: A Deep-Neural-Network Approach to Multiquark Bound States
+  <span class="tags">
+    <span class="tag">#DEEP-IN seminar</span>
+  </span>
+
+  * Speaker: Wei-Lin Wu (School of Physics, Peking University)
+  * Time: **3:00 PM JST/KST**, 2:00 PM Beijing 
+  * [link to the seminar page](https://ithems.riken.jp/en/events/generative-diffusion-model-with-inverse-renormalization-group-flows)
+  * <details markdown=1>
+      <summary data-open="Abstract" data-close="Show Abstract"></summary>
+      Recent discoveries of multiquark candidates have opened a new frontier in hadron spectroscopy and nonperturbative QCD. Understanding these multiquark states poses a challenging quantum many-body problem governed by SU(3) color interactions. Traditional approaches based on basis expansions often encounter severe bottlenecks as the system size and dynamical complexity increase.
+In this talk, I will present DeepQuark, a deep-neural-network-based variational Monte Carlo framework for solving multiquark bound states. I will discuss the general methodology behind neural-network quantum states, the challenges of extending existing approaches from electronic and nuclear systems to hadron physics, and the architecture of DeepQuark. By combining physics-informed symmetry constructions with the expressive power of deep neural networks, DeepQuark provides a scalable framework for studying multiquark spectroscopy and exploring confinement dynamics.
+      
+      References
+      * Wei-Lin Wu, Lu Meng, Shi-Lin Zhu, DeepQuark: A Deep-Neural-Network Approach to Multiquark Bound States, Phys.Rev.Lett. 136 7, 071901 (2026), [arXiv:2506.20555](https://arxiv.org/abs/2506.20555)
+    </details>
+    
+<!-- ----------------------------------- -->
+
 June 2 (Tue)
 : ### Generative diffusion model with inverse renormalization group flows
   <span class="tags">
