@@ -52,7 +52,7 @@ June 4 (Thu)
 
   * Speaker: Wei-Lin Wu (School of Physics, Peking University)
   * Time: **3:00 PM JST/KST**, 2:00 PM Beijing 
-  * [link to the seminar page](https://ithems.riken.jp/en/events/generative-diffusion-model-with-inverse-renormalization-group-flows)
+  * [link to the seminar page](https://ithems.riken.jp/en/events/deepquark-a-deep-neural-network-approach-to-multiquark-bound-states)
   * <details markdown=1>
       <summary data-open="Abstract" data-close="Show Abstract"></summary>
       Recent discoveries of multiquark candidates have opened a new frontier in hadron spectroscopy and nonperturbative QCD. Understanding these multiquark states poses a challenging quantum many-body problem governed by SU(3) color interactions. Traditional approaches based on basis expansions often encounter severe bottlenecks as the system size and dynamical complexity increase.
