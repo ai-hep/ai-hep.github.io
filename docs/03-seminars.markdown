@@ -13,21 +13,6 @@ Our online joint seminars are at the intersection of AI and fundamental physics 
 Upcoming Seminars
 -----------------
 
-July 1 (Wed)
-: ### Approximating Euclidean path integrals with radial basis function neural networks
-  <span class="tags">
-    <span class="tag">#CTPU-PTC seminar</span>
-  </span>
-
-  * Speaker: Balassa Gabor (Yonsei University)
-  * Time: **3:00 PM JST/KST**, 2:00 PM Beijing 
-  * [link to the seminar page](https://indico.ibs.re.kr/event/1325/)
-  * <details markdown=1>
-      <summary data-open="Abstract" data-close="Show Abstract"></summary>
-      In this talk, I will introduce a lattice-based method to approximate Euclidean path integrals, based on a radial basis function (RBF) expansion of the interaction terms that appear in the path integral formalism of quantum field theories. This approach allows numerically efficient determination of both the partition function directly and specific observables, which can be used to describe phenomena such as phase transitions, fluctuations, etc. The method is currently applicable to interacting (real and complex) scalar fields at both zero and non-zero chemical potentials, even in 3+1 dimensions. For real scalar fields in 1+1 dimensions, the phase transition line is approximated at several coupling strengths with very good accuracy, comparable to previous Monte Carlo lattice calculations. As another example, we will examine complex scalar fields at finite chemical potentials, which develop a sign problem similar to that of quantum chromodynamics at finite densities on the lattice. It will be shown that by applying the radial basis expansion to the system, the sign problem can be evaded, and the phase transition points, i.e., the critical chemical potentials where Bose condensation occurs, can be determined. Furthermore, the silver blaze phenomenon, which relies on severe cancellations in the path integral, can also be described. At the end I will propose future directions where the radial basis function approximation could be advantageous, such as systems with fermions, gauge theories, and possibly quantum chromodynamics.
-    </details>
-
-<!-- ----------------------------------- -->
 
 July 3 (Fri)
 : ### A Cookbook for Collider Metrics: Understanding, Comparing & Combining Event Distances
@@ -52,6 +37,22 @@ In this talk, I will present a practical “cookbook” for collider event metri
 
 Past Seminars 2026
 -------------
+
+July 1 (Wed)
+: ### Approximating Euclidean path integrals with radial basis function neural networks
+  <span class="tags">
+    <span class="tag">#CTPU-PTC seminar</span>
+  </span>
+
+  * Speaker: Balassa Gabor (Yonsei University)
+  * Time: **3:00 PM JST/KST**, 2:00 PM Beijing 
+  * [link to the seminar page](https://indico.ibs.re.kr/event/1325/)
+  * <details markdown=1>
+      <summary data-open="Abstract" data-close="Show Abstract"></summary>
+      In this talk, I will introduce a lattice-based method to approximate Euclidean path integrals, based on a radial basis function (RBF) expansion of the interaction terms that appear in the path integral formalism of quantum field theories. This approach allows numerically efficient determination of both the partition function directly and specific observables, which can be used to describe phenomena such as phase transitions, fluctuations, etc. The method is currently applicable to interacting (real and complex) scalar fields at both zero and non-zero chemical potentials, even in 3+1 dimensions. For real scalar fields in 1+1 dimensions, the phase transition line is approximated at several coupling strengths with very good accuracy, comparable to previous Monte Carlo lattice calculations. As another example, we will examine complex scalar fields at finite chemical potentials, which develop a sign problem similar to that of quantum chromodynamics at finite densities on the lattice. It will be shown that by applying the radial basis expansion to the system, the sign problem can be evaded, and the phase transition points, i.e., the critical chemical potentials where Bose condensation occurs, can be determined. Furthermore, the silver blaze phenomenon, which relies on severe cancellations in the path integral, can also be described. At the end I will propose future directions where the radial basis function approximation could be advantageous, such as systems with fermions, gauge theories, and possibly quantum chromodynamics.
+    </details>
+
+<!-- ----------------------------------- -->
 
 June 10 (Wed)
 : ### Parton Showers as a New Path to Light BSM Searches
