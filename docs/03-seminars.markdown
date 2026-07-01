@@ -13,6 +13,46 @@ Our online joint seminars are at the intersection of AI and fundamental physics 
 Upcoming Seminars
 -----------------
 
+June 1 (Wed)
+: ### Approximating Euclidean path integrals with radial basis function neural networks
+  <span class="tags">
+    <span class="tag">#CTPU-PTC seminar</span>
+  </span>
+
+  * Speaker: Balassa Gabor (Yonsei University)
+  * Time: **3:00 PM JST/KST**, 2:00 PM Beijing 
+  * [link to the seminar page](https://indico.ibs.re.kr/event/1325/)
+  * <details markdown=1>
+      <summary data-open="Abstract" data-close="Show Abstract"></summary>
+      In this talk, I will introduce a lattice-based method to approximate Euclidean path integrals, based on a radial basis function (RBF) expansion of the interaction terms that appear in the path integral formalism of quantum field theories. This approach allows numerically efficient determination of both the partition function directly and specific observables, which can be used to describe phenomena such as phase transitions, fluctuations, etc. The method is currently applicable to interacting (real and complex) scalar fields at both zero and non-zero chemical potentials, even in 3+1 dimensions. For real scalar fields in 1+1 dimensions, the phase transition line is approximated at several coupling strengths with very good accuracy, comparable to previous Monte Carlo lattice calculations. As another example, we will examine complex scalar fields at finite chemical potentials, which develop a sign problem similar to that of quantum chromodynamics at finite densities on the lattice. It will be shown that by applying the radial basis expansion to the system, the sign problem can be evaded, and the phase transition points, i.e., the critical chemical potentials where Bose condensation occurs, can be determined. Furthermore, the silver blaze phenomenon, which relies on severe cancellations in the path integral, can also be described. At the end I will propose future directions where the radial basis function approximation could be advantageous, such as systems with fermions, gauge theories, and possibly quantum chromodynamics.
+    </details>
+  * <details>
+      <summary data-open="Bio" data-close="Show Bio"></summary>
+      Tianji Cai (蔡恬吉) is a Distinguished Researcher and Tenure-track Assistant Professor at School of Physical Science and Engineering, Tongji University. Before returning to Shanghai, she was a postdoctoral research associate in the Fundamental Physics Directorate at the SLAC National Accelerator Laboratory, and a research affiliate at the Lawrence Berkeley National Laboratory. She obtained her Ph.D. degree in 2023 at University of California, Santa Barbara, and holds two bachelor's degrees from Duke University and Shanghai Jiao Tong University. Her research explores the interface between High Energy Physics (HEP) and Artificial Intelligence (AI), where she develops first-principles Scientific AI to probe particle phenomenology and, conversely, uses concepts from HEP to deepen our theoretical understanding of AI systems. 
+    </details>
+
+<!-- ----------------------------------- -->
+
+July 3 (Fri)
+: ### A Cookbook for Collider Metrics: Understanding, Comparing & Combining Event Distances
+  <span class="tags">
+    <span class="tag">#CTPU-PTC seminar</span>
+  </span>
+
+  * Speaker: Tianji Cai (Tongji University)
+  * Time: **3:00 PM JST/KST**, 2:00 PM Beijing 
+  * [link to the seminar page](https://indico.ibs.re.kr/event/1258/)
+  * <details markdown=1>
+      <summary data-open="Abstract" data-close="Show Abstract"></summary>
+      As particle collider experiments continue to produce ever larger and more complex datasets, a fundamental question arises: how should we measure the similarity between two collider events? A physically meaningful notion of distance lies at the heart of a wide range of applications, from jet tagging to anomaly detection. More fundamentally, it provides a geometric language for collider physics, serving as a common framework for connecting physics-inspired observables with modern machine learning.
+In this talk, I will present a practical “cookbook” for collider event metrics. Starting from three representative metrics based on optimal transport and relativistic N-body phase space, I will discuss the physical principles encoded by different metrics, how they can be compared on an equal footing, and what aspects of collider events each captures. Finally, I will explore how complementary collider metrics may be combined into a unified framework for event geometry. Beyond providing new tools for collider phenomenology, such a framework offers a principled foundation for understanding, comparing, and designing physics-aware AI models, illustrating how particle physics can serve as a unique testbed for the development of Scientific AI. 
+    </details>
+    
+<!-- ----------------------------------- -->
+
+Past Seminars 2026
+-------------
+
 June 10 (Wed)
 : ### Parton Showers as a New Path to Light BSM Searches
   <span class="tags">
@@ -28,21 +68,6 @@ June 10 (Wed)
     </details>
 
 <!-- ----------------------------------- -->
-
-July 3 (Fri)
-: ### TBA
-  <span class="tags">
-    <span class="tag">#CTPU-PTC seminar</span>
-  </span>
-
-  * Speaker: Tianji Cai (Tongji University)
-  * Time: 3:00 PM JST/KST, 2:00 PM Beijing 
-  * [link to the seminar page](https://indico.ibs.re.kr/event/1258/)
-    
-<!-- ----------------------------------- -->
-
-Past Seminars 2026
--------------
 
 June 4 (Thu)
 : ### DeepQuark: A Deep-Neural-Network Approach to Multiquark Bound States
