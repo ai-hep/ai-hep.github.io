@@ -13,7 +13,7 @@ Our online joint seminars are at the intersection of AI and fundamental physics 
 Upcoming Seminars
 -----------------
 
-June 1 (Wed)
+July 1 (Wed)
 : ### Approximating Euclidean path integrals with radial basis function neural networks
   <span class="tags">
     <span class="tag">#CTPU-PTC seminar</span>
