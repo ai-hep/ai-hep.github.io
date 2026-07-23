@@ -13,6 +13,59 @@ Our online joint seminars are at the intersection of AI and fundamental physics 
 Upcoming Seminars
 -----------------
 
+July 23 (Thu)
+: ### KalmanAI: Statistical Intelligence for AI-Assisted Scientific Reconstruction
+  <span class="tags">
+    <span class="tag">#AI4KMI seminar</span>
+  </span>
+
+  * Speaker: Masako Iwasaki (OMU)
+  * Time: 5:00 PM JST/KST, 4:00 PM Beijing
+  * <details>
+      <summary data-open="Abstract" data-close="Show Abstract"></summary>
+      Statistical inference has long provided the foundation for scientific reconstruction, enabling principled estimation and uncertainty propagation across a wide range of applications. With the rapid adoption of artificial intelligence in scientific computing, an important question arises: how can modern AI be integrated within statistically consistent inference rather than replacing it? This seminar introduces the motivation and design principles behind KalmanAI, an ongoing effort toward a modular Engine-Model-Filter architecture for sequential statistical inference. After revisiting the Bayesian foundations underlying Kalman filtering, the discussion will illustrate how these principles naturally extend across diverse estimation problems, including spacecraft navigation, launch and flyby trajectory estimation, interacting multiple-model (IMM) filtering, and scientific reconstruction. Finally, the seminar will explore how probabilistic state estimation and modern AI can be combined to develop physics-driven learning algorithms that preserve uncertainty propagation, statistical consistency, and physical constraints.
+    </details>
+    
+<!-- ----------------------------------- -->
+
+Past Seminars 2026
+-------------
+
+July 17 (Fri)
+: ### ML Applications in Collider Experiments
+  <span class="tags">
+    <span class="tag">#AI4KMI seminar</span>
+  </span>
+
+  * Speaker: Masako Iwasaki (OMU)
+  * Time: 5:00 PM JST/KST, 4:00 PM Beijing
+  * <details>
+      <summary data-open="Abstract" data-close="Show Abstract"></summary>
+      Machine Learning (ML) represents cutting-edge data processing technologies in the field of information science. They are expected to enable various data processing tasks, as they can build a data “model” (a description of the relationship between input and output variables) using information derived from vast amounts of data, even without a pre-existing, explicit model. Since various recent ML techniques provide more effective and precise data processing in accelerator physics experiments, we formed a group with information scientists to apply ML to particle accelerator physics as an RCNP research project in Osaka in 2018. In this seminar, some of our ML application activities in accelerator tuning, physics analysis, and data calibration will be introduced.
+    </details>
+    
+<!-- ----------------------------------- -->
+
+July 16 (Thu)
+: ### Artificial Intelligence in New Physics Electroweak Phase Transition Studies
+  <span class="tags">
+    <span class="tag">#DEEP-IN seminar</span>
+  </span>
+
+  * Speaker: Yang Zhang (Henan Normal University)
+  * Time: **3:00 PM JST/KST**, 2:00 PM Beijing 
+  * [link to the seminar page](https://ithems.riken.jp/en/events/artificial-intelligence-in-new-physics-electroweak-phase-transition-studies)
+  * <details markdown=1>
+      <summary data-open="Abstract" data-close="Show Abstract"></summary>
+      The study of electroweak phase transitions in BSM involves complex numerical calculations, large parameter spaces, and the integration of multiple computational tools. In this talk, I will review recent developments in applying artificial intelligence to new physics phase transition studies. First, I will discuss how machine learning methods can accelerate electroweak phase transition studies, including efficient evaluations of phase transition dynamics, such as bounce action calculations, and the exploration of detectable parameter regions for gravitational-wave searches. Then, I will introduce the emerging role of AI agents in scientific workflows, including automated model construction, effective potential generation, and parameter scans. These developments illustrate how AI can transform traditional computational pipelines and provide new possibilities for future high-energy physics research.
+      
+      References
+      * Enhancing Phase Transition Calculations with Fitting and Neural Network, [arXiv:2510.10667](
+https://arxiv.org/abs/2510.10667)
+      * EasyScan_HEP 2: Agent-Ready Parameter Scans for High-Energy Physics, [arXiv:2606.31214](https://arxiv.org/abs/2606.31214)
+    </details>
+
+<!-- ----------------------------------- -->
 
 July 3 (Fri)
 : ### A Cookbook for Collider Metrics: Understanding, Comparing & Combining Event Distances
@@ -34,9 +87,6 @@ In this talk, I will present a practical “cookbook” for collider event metri
     </details>
     
 <!-- ----------------------------------- -->
-
-Past Seminars 2026
--------------
 
 July 1 (Wed)
 : ### Approximating Euclidean path integrals with radial basis function neural networks
