@@ -13,6 +13,11 @@ Our online joint seminars are at the intersection of AI and fundamental physics 
 Upcoming Seminars
 -----------------
 
+<!-- ----------------------------------- -->
+
+Past Seminars 2026
+-------------
+
 July 23 (Thu)
 : ### KalmanAI: Statistical Intelligence for AI-Assisted Scientific Reconstruction
   <span class="tags">
@@ -27,9 +32,6 @@ July 23 (Thu)
     </details>
     
 <!-- ----------------------------------- -->
-
-Past Seminars 2026
--------------
 
 July 17 (Fri)
 : ### ML Applications in Collider Experiments
