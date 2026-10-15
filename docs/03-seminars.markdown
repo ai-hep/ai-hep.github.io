@@ -13,6 +13,21 @@ Our online joint seminars are at the intersection of AI and fundamental physics 
 Upcoming Seminars
 -----------------
 
+Oct 15 (Thu)
+: ### From Dark Matter to Galaxies with Generative Models
+  <span class="tags">
+    <span class="tag">#AI4KMI seminar</span>
+  </span>
+
+  * Speaker: Kana Moriwaki (The University of Tokyo)
+  * Time: **5:00 PM JST/KST**, 4:00 PM Beijing
+  * <details>
+      <summary data-open="Abstract" data-close="Show Abstract"></summary>
+      Understanding how the distribution of dark matter gives rise to the observed galaxy population is a central challenge in cosmology. While large cosmological simulations can model galaxy formation in detail, their computational cost makes it difficult to generate the large ensembles needed for current and future surveys. 
+In this talk, I will present our recent work on using generative models to efficiently construct galaxy populations from dark-matter-only simulations. I will introduce an autoregressive model that generates galaxies conditioned on dark matter halo properties, and also present a diffusion-based approach that goes one step further, generating galaxies directly from three-dimensional dark matter density fields without identifying haloes. Both models are trained on hydrodynamical simulations and reproduce key galaxy statistics and their spatial relation to the underlying dark matter distribution. These approaches provide a fast, probabilistic mapping from dark matter to observable galaxies, with applications to galaxy surveys, line-intensity mapping, and simulation-based cosmological inference.
+    </details>
+    
+
 <!-- ----------------------------------- -->
 
 Past Seminars 2026
