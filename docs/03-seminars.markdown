@@ -19,7 +19,7 @@ Oct 15 (Thu)
     <span class="tag">#AI4KMI seminar</span>
   </span>
 
-  * Speaker: Kana Moriwaki (The University of Tokyo)
+  * Speaker: Kana Moriwaki (RESCEU, The University of Tokyo)
   * Time: **5:00 PM JST/KST**, 4:00 PM Beijing
   * [link to the seminar page](https://www.kmi.nagoya-u.ac.jp/eng/seminar/3590/)
   * <details>
